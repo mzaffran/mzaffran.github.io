@@ -96,7 +96,7 @@ author:
   name             : "Margaux Zaffran"
   avatar           : "/assets/images/test.png"
   bio              : "Final year student at ENSTA Paris, M2 Student at Ecole Polytechnique."
-  location         : "Somewhere"
+  location         : 
   email            :
   links:
     - label: "Website"
