@@ -97,11 +97,11 @@ author:
   avatar           : "/assets/images/test.png"
   bio              : "Final year student at ENSTA Paris, M2 Student at Ecole Polytechnique."
   location         :
-  email            : 
+  email            :
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://mzaffran.github.io"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://mzaffran.github.io"
     - label: "ArXiv"
       icon: "ai ai-fw ai-arxiv"
       url: "https://arxiv.org/search/?query=Zaffran%2C+M&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
