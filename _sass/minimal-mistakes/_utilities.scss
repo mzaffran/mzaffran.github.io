@@ -284,7 +284,7 @@ body:hover .visually-hidden button {
 
   .fa-rss,
   .fa-rss-square {
-    color: $rss-color;
+    color: $all-links-color; /* $rss-color */
   }
 
   .fa-soundcloud {
