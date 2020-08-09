@@ -20,8 +20,8 @@ title                    : "Margaux Zaffran"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Margaux Zaffran"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : # site description
+url                      : "https://mzaffran.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -96,8 +96,8 @@ author:
   name             : "Margaux Zaffran"
   avatar           : "/assets/images/test.png"
   bio              : "Final year student at ENSTA Paris, M2 Student at Ecole Polytechnique."
-  location         : 
-  email            :
+  location         :
+  email            : 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
