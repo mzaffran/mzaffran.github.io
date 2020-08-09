@@ -2,7 +2,7 @@
 permalink: /publications/
 layout: single
 author_profile: true
-title: "Publications test 3"
+title: "Publications test 4"
 ---
 
 Add contents.
