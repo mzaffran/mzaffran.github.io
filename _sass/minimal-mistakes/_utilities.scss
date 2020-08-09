@@ -326,11 +326,11 @@ body:hover .visually-hidden button {
   }
 
   .ai-arxiv {
-    color: #75FB4C;
+    color: $arxiv-color;
   }
 
   .ai-google-scholar {
-    color: #4788ee; /* #5285ED */
+    color: $google-scholar-color;
   }
 
 }
