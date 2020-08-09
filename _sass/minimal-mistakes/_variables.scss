@@ -70,11 +70,12 @@ $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
 
-$primary-color: #E53419 !default; /* #6f777d */
+$all-links-color: #E53419 !default;
+$primary-color: $all-links-color !default; /* #6f777d */
 $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
-$info-color: #E53419 !default; /* #3b9cba */
+$info-color: $all-links-color !default; /* #3b9cba */
 $focus-color: $primary-color !default;
 $active-color: mix(#fff, $primary-color, 80%) !default;
 

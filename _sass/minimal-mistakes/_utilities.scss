@@ -242,7 +242,7 @@ body:hover .visually-hidden button {
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
-    color: $github-color;
+    color: $all-links-color; /* $github-color */
   }
 
   .fa-gitlab {
@@ -264,7 +264,7 @@ body:hover .visually-hidden button {
 
   .fa-linkedin,
   .fa-linkedin-in {
-    color: $linkedin-color;
+    color: $all-links-color; /* $linkedin-color */
   }
 
   .fa-mastodon,
@@ -326,11 +326,11 @@ body:hover .visually-hidden button {
   }
 
   .ai-arxiv {
-    color: $arxiv-color;
+    color: $all-links-color; /* $arxiv-color */
   }
 
   .ai-google-scholar {
-    color: $google-scholar-color;
+    color: $all-links-color; /* $google-scholar-color */
   }
 
 }
