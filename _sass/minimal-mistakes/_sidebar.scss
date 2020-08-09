@@ -127,7 +127,7 @@
   }
 
   img {
-    max-width: 1000px; /*110*/
+    max-width: 500px; /*110*/
     border-radius: 50%;
 
     @include breakpoint($large) {
