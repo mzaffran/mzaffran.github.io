@@ -114,7 +114,8 @@ $arxiv-color: #75FB4C !default;
 $google-scholar-color: #4788ee !default; /* #5285ED */
 
 /* links */
-$link-color: mix(#000, $info-color, 20%) !default;
+/* $link-color: mix(#000, $info-color, 20%) !default; */
+$link-color: $info-color !default;
 $link-color-hover: mix(#000, $link-color, 25%) !default;
 $link-color-visited: mix(#fff, $link-color, 15%) !default;
 $masthead-link-color: $primary-color !default;
