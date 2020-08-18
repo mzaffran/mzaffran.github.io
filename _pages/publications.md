@@ -7,8 +7,8 @@ title: "Publications"
 
 - *qgam: Bayesian non-parametric quantile regression modelling in R*  
 M. Fasiolo, S. N. Wood, M. Zaffran, R. Nedellec, Y. Goude  
+*(submitted)*  
 [arXiv preprint arXiv:2007.03303](https://arxiv.org/pdf/2007.03303.pdf)  
-(submitted)
 
 - [*Fast calibrated additive quantile regression*](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2020.1725521)  
 M. Fasiolo, S. N. Wood, M. Zaffran, R. Nedellec, Y. Goude  
