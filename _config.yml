@@ -113,7 +113,7 @@ author:
       url: "https://scholar.google.com/citations?user=AmuWSHgAAAAJ&hl=fr"
     - label: "margaux.zaffran_at_polytechnique.edu"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:margaux.zaffran_at_polytechnique.edu?body=Change _at_ by @ in e-mail adress!"
+      url: "mailto:margaux.zaffran_at_polytechnique.edu?body=Replace _at_ with @ in the recipient e-mail!"
     # - label: "LinkedIn"
     #   icon: "fab fa-fw fa-linkedin"
     #   url: "https://www.linkedin.com/in/zaffranmargaux/"
