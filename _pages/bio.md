@@ -5,7 +5,7 @@ author_profile: true
 title: "Short bio"
 ---
 
-I graduated from [ENSTA Paris](https://www.ensta-paris.fr/en) with a specialization in applied mathematics in 2020. In parallel, I also graduated from [M2 Data Science of Université Paris-Saclay](https://portail.polytechnique.edu/mathematiquesappliquees/fr/masters/masters/m2-data-science).
+I graduated from [ENSTA Paris](https://www.ensta-paris.fr/en) with a specialization in applied mathematics in 2020. In parallel, I also graduated from the [Data Science Master of Université Paris-Saclay](https://portail.polytechnique.edu/mathematiquesappliquees/fr/masters/masters/m2-data-science).
 
 During my studies, I did a 6-month research internship under the supervision of [Philippe Naveau](https://www.lsce.ipsl.fr/Phocea/Pisp/visu.php?id=44&uid=naveau), at the [Laboratoire des Sciences du Climat et de l'Environnnement](https://www.lsce.ipsl.fr/en/index.php). I was working on rainfall extremes clustering, by coupling Kullback-Leibler divergence and machine learning algorithms.
 
