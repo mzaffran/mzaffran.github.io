@@ -113,7 +113,7 @@ author:
       url: "https://scholar.google.com/citations?user=AmuWSHgAAAAJ&hl=fr"
     - label: "margaux (dot) zaffran (at) polytechnique (dot) edu"
       icon: "fab fa-fw fa-envelop"
-      url: ""
+      #url: ""
     # - label: "LinkedIn"
     #   icon: "fab fa-fw fa-linkedin"
     #   url: "https://www.linkedin.com/in/zaffranmargaux/"
