@@ -20,7 +20,7 @@ title                    : "Margaux Zaffran"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Margaux Zaffran"
-description              : # site description
+description              : "PhD student at INRIA, at EDF R&D, and at CMAP, Ecole Polytechnique" # site description
 url                      : "https://mzaffran.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Margaux Zaffran"
   avatar           : "/assets/images/test.png"
-  bio              : "First year PhD student at CMAP, Ecole Polytechnique, and EDF R&D."
+  bio              : "First year PhD student at INRIA, at EDF R&D, and at CMAP, Ecole Polytechnique."
   location         :
   email            :
   links:
