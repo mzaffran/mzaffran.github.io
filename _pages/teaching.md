@@ -11,4 +11,4 @@ title: "Teaching"
 
 Course taught by Yannig Goude, materials can be found on his website ([here](https://www.imo.universite-paris-saclay.fr/~goude/teaching.html)). The codes proposed here are modified versions of his.
 
-- Practical Session 1: [exercise 1](http://mzaffran.github.io/assets/files/STA202/TP1/Exercise_1.R)
+- Practical session 1: [exercise 1](http://mzaffran.github.io/assets/files/STA202/TP1/Exercise_1.R)
