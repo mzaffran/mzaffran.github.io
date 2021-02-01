@@ -33,6 +33,8 @@ plot(beer$Date, beer$BeerProd, type='l', xlab="Date", ylab="Beer production")
 beer.ts = ts(beer$BeerProd, start=1, frequency=12)
 plot(beer.ts)
 
+# change the marks of the x-axis:
+
 plot(beer.ts, xaxt='n')
 xtick = seq(1, 5.7, length=56) # 5.7 = 5 + 8/12, number of years in our data-set
 axis(1, xtick, labels=Date)
@@ -40,8 +42,8 @@ axis(1, xtick, labels=Date)
 # or, proper version:
 
 plot(beer.ts, xaxt='n')
-t <- time(beer.ts)
-xtick = seq(t[1], tail(t, 1), length=56) # 5.7 = 5 + 8/12, number of years in our data-set
+t = time(beer.ts)
+xtick = seq(t[1], tail(t, 1), length=56) 
 axis(1, xtick, labels=Date)
 
 ####### zoo class
