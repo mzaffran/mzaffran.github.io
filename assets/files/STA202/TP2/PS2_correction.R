@@ -8,7 +8,7 @@ library(mgcv)
 
 date1 = strptime("01/01/1900", "%m/%d/%Y")
 date2 = strptime("01/01/2000", "%m/%d/%Y")
-Date = seq.POSIXt(date1,date2, by = "year")
+Date2 = seq(date1,date2, by = "year")
 
 n = length(Date)
 t = 1:n # temporal index
