@@ -124,7 +124,7 @@ fourier = cbind(cos(w*t), sin(w*t))
 matplot(fourier, type='l')
 dim(fourier)
 
-reg = lm(X.detrend~fourier[,1:2])
+reg = lm(X.detrend~fourier)
 ychap.lm.season = xts(as.numeric(reg$fitted), order.by=Date)
 plot(X.detrend, type='l',  main = "Seasonal estimation by Fourier")
 lines(ychap.lm.season, col='red')
