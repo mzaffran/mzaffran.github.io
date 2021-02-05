@@ -11,7 +11,7 @@ date2 = strptime("01/01/2000", "%m/%d/%Y")
 Date = seq.POSIXt(date1,date2, by = "year")
 
 n = length(Date)
-t = c(1:n) # temporal index
+t = 1:n # temporal index
 
 ## Data simulation
 
