@@ -17,6 +17,7 @@ s = cos(2*pi*t/10)
 X3 = t/5 + s + eps
 
 plot(X1, type='l', ylim=range(X1,X2,X3), xlab="Time", ylab=expression(X[t]))
+# expression is a function to write maths expressions and greek letters. 
 lines(X2, col='blue')
 lines(X3, col='red')
 legend("topleft", legend=c(expression(X^1),expression(X^2),expression(X^3)),
@@ -31,9 +32,12 @@ legend("topleft", legend=c(expression(X^1),expression(X^2),expression(X^3)),
 ExpSmooth = function(x,alpha)
 {
   n = length(x)
+  xsmooth = array(NA, dim=n) 
   
   # Initialization
-  xsmooth = array(NA, dim=n) 
+  # We have to start somewhere: this would be optimized in R, using the Holt-Winters function.
+  # Here, we arbitrarily choose a starting point, that is not absurd (at the beginning we do not
+  # smooth the time series since we have no past).
   xsmooth[1] = x[1]
   
   for(i in 2:n)
@@ -50,6 +54,12 @@ DoubleExpSmooth = function(x,alpha)
   xsmooth = array(NA, dim=n) 
 
   # Initialization
+  # Again, it is here arbitrary but not absurd. l_t represents the level, thus it is in the same
+  # rough size. b_t, instead, represents the trend: it is the same rough size and concept than
+  # x[2]-x[1]. For l_1, I put x[2] to be at the "same point" than b_1, but I could have chosen
+  # x[1] for example.
+  # Anyway, usually these parameters are optimized, and we hope here that their influence will 
+  # quickly be insignificant, after a warm up period.
   xsmooth[1] = x[1]
   l = array(NA, dim=n) 
   l[1] = x[2]
@@ -77,8 +87,9 @@ DoubleExpSmooth = function(x,alpha)
 DoubleExpSmoothHW=function(x,alpha,beta)
 {
   n = length(x)
-  xsmooth = x
+  xsmooth = array(NA, dim=n)
   
+  xsmooth[1] = x[1]
   l = array(NA, dim=n)
   l[1] = x[2]
   b = array(NA, dim=n)
@@ -101,8 +112,9 @@ DoubleExpSmoothHW=function(x,alpha,beta)
 SeasonalDoubleExpSmooth = function(x,alpha,beta,delta,period)
 {
   n = length(x)
-  xsmooth = x
-  
+  xsmooth = array(NA, dim=n)
+
+  xsmooth[1] = x[1]
   l = array(NA, dim=n)
   l[1] = x[2]
   b = array(NA, dim=n)
@@ -131,6 +143,10 @@ SeasonalDoubleExpSmooth = function(x,alpha,beta,delta,period)
 mse = function(x,y){
   return(mean((x-y)^2))
 }
+
+# Since we are going to forecast, we want to optimize our choice of alpha in this framework,
+# and not in a smoothing framework. Thus, we build functions to evaluate the MSE of a 
+# 1-day ahead forecast, given a smoothing => we have to shift the smoothing vector.
 
 mse_smoothing_simple = function(true_values, smoothed_values){
   n = length(true_values)
@@ -269,6 +285,10 @@ plot(X3.seassmooth$s, type='l', xlab="Time", ylab=expression(s[t]))
 par(mfrow=c(1,1))
 
 #### Forecast: X3
+
+# We forecast at time t the time series at times t+1,...,t+20.
+# In practice, we could refine our forecast of time t+20 at time t+19 for example.
+# Here we wish to observe the deterioration for mid-term forecasts. 
 
 ## Exponential
 
