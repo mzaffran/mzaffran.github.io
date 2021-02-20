@@ -15,7 +15,7 @@ eps = rnorm(n,0,1)
 
 ar1_t = function(t, a, epsilon){
   epsilon = head(epsilon, t)
-  powers_a = a^((t):1)
+  powers_a = a^((t):1) # to start with y[1] = a*eps[1]. If you want to start with y[1]=eps[1], should be a^((t-1):0)
   return(powers_a %*% epsilon) # * is done term-by-term. %*% is the matrix multiplication.
 }
 
