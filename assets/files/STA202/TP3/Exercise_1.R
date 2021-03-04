@@ -342,10 +342,11 @@ period = 10
 smoothing = SeasonalDoubleExpSmooth(X3[1:last_obs], alpha, beta, delta, period)
 forecast = c(smoothing$smooth, 
              smoothing$l[last_obs] + smoothing$b[last_obs]*(1:horizon) +
-             smoothing$s[last_obs-period+1+(horizon-1)%%period])
+             smoothing$s[last_obs-period+1+(1:horizon-1)%%period])
 
 plot(X3, pch=20, ylim=range(X3, forecast), xlab="Time", ylab=expression(X^3))
 lines(forecast, col='red', lwd=2)
 abline(v=last_obs, lty='dashed')
 legend("topleft", legend=c("Observed data", "Smoothed and forecast"), lty=c(NA,1), pch=c(20,NA),
        lwd=c(1,2), col=c("black", "red"))
+
