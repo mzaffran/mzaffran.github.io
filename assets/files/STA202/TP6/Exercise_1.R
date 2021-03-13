@@ -31,6 +31,13 @@ pmax = 6
 # We prefer to have a smaller bound on p so that we do not try so many models afterwards
 # If our models are not satisfactory, we could increase p at the end!
 
+par(mfrow=c(1,2))
+acf(x1)
+abline(v=qmax+1, lty=3, col="red")
+pacf(x1)
+abline(v=pmax+1, lty=3, col="red")
+par(mfrow=c(1,1))
+
 #### Model selection
 
 ## Creation of the different orders without for loop
@@ -222,7 +229,7 @@ forecast = function(model, h)
   forecast = array(NA, dim=100)
   for(i in c(900:999)) # for each value to be predicted
   {
-    # we apply the formulae with the fitted coefficients (of line 215)
+    # we apply the formulae with the fitted coefficients (of line 222)
     # but on the observed values! It is just an evaluation
     mod = arima(x=x1[1:(i-h)], order=ordre.opt, fixed=model$coef, include.mean=F)
     # i-899 because forecast is a vector of size 100, from 1 to 100

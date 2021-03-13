@@ -43,8 +43,19 @@ pacf(x1, lag.max=3*s)       # pmax = 2, Pmax = 2
 par(mfrow=c(1,1))
 # Qmax and Pmax = significant repetitions on the ACF/PACF
 # qmax and pmax, as usual, on the first cycle
+qmax = 1
+Qmax = 2
+pmax = 2
+Pmax = 2
 
-ordre = expand.grid(p=c(0:2), q=c(0:1), P=c(0:2), Q=c(0:2))
+par(mfrow=c(1,2))
+acf(x1, lag.max=3*s) 
+abline(v=qmax+1, lty=3, col="red")
+pacf(x1, lag.max=3*s) 
+abline(v=pmax+1, lty=3, col="red")
+par(mfrow=c(1,1))
+
+ordre = expand.grid(p=c(0:pmax), q=c(0:qmax), P=c(0:Pmax), Q=c(0:Qmax))
 ordre = cbind(ordre[,1], 0, ordre[,2], ordre[,3], 0, ordre[,4])
 
 # We need to build a function because the seasonal and "principal" orders are not
@@ -129,7 +140,19 @@ pacf(x2, lag.max=3*s)
 # pmax = 1 (only one significant lag in the cycle)
 par(mfrow=c(1,1))
 
-ordre = expand.grid(p=c(0:1), q=c(0:3), P=c(0:1), Q=c(0:2))
+qmax = 3
+Qmax = 2
+pmax = 1
+Pmax = 1
+
+par(mfrow=c(1,2))
+acf(x2, lag.max=3*s) 
+abline(v=qmax+1, lty=3, col="red")
+pacf(x2, lag.max=3*s) 
+abline(v=pmax+1, lty=3, col="red")
+par(mfrow=c(1,1))
+
+ordre = expand.grid(p=c(0:pmax), q=c(0:qmax), P=c(0:Pmax), Q=c(0:Qmax))
 ordre = cbind(ordre[,1], 0, ordre[,2], ordre[,3], 0, ordre[,4])
 
 model.sarima = apply(ordre, 1, sarima, x=x2, s=7)
@@ -193,7 +216,17 @@ acf(x3.diff, lag.max=20) # qmax = 4
 pacf(x3.diff, lag.max=20) # pmax = 5
 par(mfrow=c(1,1))
 
-ordre = expand.grid(p=c(0:5), q=c(0:4))
+qmax = 4
+pmax = 5
+
+par(mfrow=c(1,2))
+acf(x3.diff) 
+abline(v=qmax+1, lty=3, col="red")
+pacf(x3.diff) 
+abline(v=pmax+1, lty=3, col="red")
+par(mfrow=c(1,1))
+
+ordre = expand.grid(p=c(0:pmax), q=c(0:qmax))
 
 ordre = cbind(ordre[,1], 1, ordre[,2]) 
 # this time, we add the 1 in order to differentiate: we will fit a complete ARIMA, 
