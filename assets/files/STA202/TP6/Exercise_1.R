@@ -6,7 +6,7 @@ set.seed(110) # to ensure reproducible results (fix the seed of the randomness)
 
 n = 1000
 sigma = 1
-eps = rnorm(n,0,sd=sigma) # innovation of our ARMA processus
+eps = rnorm(n,0,sd=sigma) # innovation of our ARMA process
 
 ar = c(1,-1/4) # AR orders
 ma = c(-1) # MA orders
