@@ -5,7 +5,7 @@ author_profile: true
 title: "Teaching"
 ---
 
-## Teaching Assistant at [ENSTA Paris](https://www.ensta-paris.fr/)
+Teaching Assistant at [ENSTA Paris](https://www.ensta-paris.fr/)
 
 #### Time series (STA202)
 *2nd year and M1 Applied Mathematics (Université Paris-Saclay)*
