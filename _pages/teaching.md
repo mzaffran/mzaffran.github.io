@@ -7,9 +7,8 @@ title: "Teaching"
 
 ## Teaching Assistant at [ENSTA Paris](https://www.ensta-paris.fr/)
 
-### 2nd year and M1 Applied Mathematics (Université Paris-Saclay)
-
 #### Time series (STA202)
+*2nd year and M1 Applied Mathematics (Université Paris-Saclay)*
 
 Course taught by Yannig Goude, materials can be found on his website ([here](https://www.imo.universite-paris-saclay.fr/~goude/teaching.html)). The codes proposed here are modified versions of his.
 
@@ -20,8 +19,8 @@ Course taught by Yannig Goude, materials can be found on his website ([here](htt
 - Practical session 5: [exercise 1 - theoretical questions](http://mzaffran.github.io/assets/files/STA202/TP5/questions_théoriques.pdf), [exercise 1 - code](http://mzaffran.github.io/assets/files/STA202/TP5/Exercise_1.R), [exercise 2](http://mzaffran.github.io/assets/files/STA202/TP5/Exercise_2.R), [exercise 3](http://mzaffran.github.io/assets/files/STA202/TP5/Exercise_3.R)
 - Practical session 6: [exercise 1](http://mzaffran.github.io/assets/files/STA202/TP6/Exercise_1.R), [exercise 2](http://mzaffran.github.io/assets/files/STA202/TP6/Exercise_2.R) <sub><sup>*(both updated on 13/03/2021, at 9PM)*</sup></sub>
 
-### 1st year
-
 #### Introduction to probability
+*1st year*
 
 #### Introduction to statistics
+*1st year*
