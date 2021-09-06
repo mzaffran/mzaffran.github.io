@@ -7,4 +7,4 @@ I am a first year PhD student at [INRIA](https://www.inria.fr/en), at [CMAP](htt
 
 My research project is about statistical learning methods for energy management. 
 
-Have a look at the activities of our [causal inference and missing values group](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html) at Inria, led by Julie Josse.
+Have a look at the activities of our [causal inference and missing values group](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html) at INRIA, led by Julie Josse.
