@@ -1,8 +1,8 @@
 ---
-permalink: /publications/
+permalink: /research/
 layout: single
 author_profile: true
-title: "Publications"
+title: "Research"
 ---
 
 - *qgam: Bayesian non-parametric quantile regression modelling in R*  
