@@ -5,9 +5,9 @@ author_profile: true
 title: "Research"
 ---
 
-- *qgam: Bayesian non-parametric quantile regression modelling in R*  
+- [*qgam: Bayesian non-parametric quantile regression modelling in R*](https://www.jstatsoft.org/article/view/v100i09)
 M. Fasiolo, S. N. Wood, M. Zaffran, R. Nedellec, Y. Goude  
-*(submitted)*  
+*Journal of Statistical Software*, 2021  
 [arXiv preprint arXiv:2007.03303](https://arxiv.org/pdf/2007.03303.pdf)  
 
 - [*Fast calibrated additive quantile regression*](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2020.1725521)  
