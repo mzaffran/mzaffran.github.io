@@ -6,6 +6,7 @@ title: "Research"
 ---
 
 - [*qgam: Bayesian non-parametric quantile regression modelling in R*](https://www.jstatsoft.org/article/view/v100i09)
+
 M. Fasiolo, S. N. Wood, M. Zaffran, R. Nedellec, Y. Goude  
 *Journal of Statistical Software*, 2021  
 [arXiv preprint arXiv:2007.03303](https://arxiv.org/pdf/2007.03303.pdf)  
