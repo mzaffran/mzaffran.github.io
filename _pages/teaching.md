@@ -12,7 +12,7 @@ Teaching assistant at [ENSTA Paris](https://www.ensta-paris.fr/).
 
 Course taught by Yannig Goude, materials can be found on [his website](https://www.imo.universite-paris-saclay.fr/~goude/teaching.html). The codes proposed here are modified versions of his.
 
-- Practical session 1: [exercise 1](http://mzaffran.github.io/assets/files/STA202/TP1/Exercise_1.R), [exercise 2](http://mzaffran.github.io/assets/files/STA202/TP1/Exercise_2.R)
+- Practical session 1: [exercise 1](http://mzaffran.github.io/assets/files/STA202/TP1/Exercise_1.R) <sub><sup>*(last updated on 02/02/2022 to add more comments)*</sup></sub>, [exercise 2](http://mzaffran.github.io/assets/files/STA202/TP1/Exercise_2.R)
 - [Practical session 2](http://mzaffran.github.io/assets/files/STA202/TP2/PS2_correction.R)
 - Practical session 3: [exercise 1](http://mzaffran.github.io/assets/files/STA202/TP3/Exercise_1.R) <sub><sup>*(last updated on 04/03/2021)*</sup></sub>
 - Practical session 4: [exercise 1](), [exercise 2](http://mzaffran.github.io/assets/files/STA202/TP4/Exercise_2.R)
