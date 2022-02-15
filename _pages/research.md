@@ -5,13 +5,13 @@ author_profile: true
 title: "Research"
 ---
 
-#### Preprint
+###### Preprint
 
 - *Adaptive Conformal Predictions for Time Series*  
 M. Zaffran, A. Dieuleveut, O. Féron, Y. Goude, J. Josse  
 [hal](https://hal.archives-ouvertes.fr/hal-03573934), 2022  
 
-#### Publications
+###### Publications
 
 - [*qgam: Bayesian non-parametric quantile regression modelling in R*](https://www.jstatsoft.org/article/view/v100i09)  
 M. Fasiolo, S. N. Wood, M. Zaffran, R. Nedellec, Y. Goude  
