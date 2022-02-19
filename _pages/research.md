@@ -9,7 +9,8 @@ title: "Research"
 
 - *Adaptive Conformal Predictions for Time Series*  
 M. Zaffran, A. Dieuleveut, O. Féron, Y. Goude, J. Josse  
-[hal](https://hal.archives-ouvertes.fr/hal-03573934), 2022  
+[hal](https://hal.archives-ouvertes.fr/hal-03573934), [arXiv](https://arxiv.org/abs/2202.07282), 2022  
+[code](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)
 
 ###### Publications
 
