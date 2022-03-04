@@ -12,4 +12,4 @@ Have a look at the activities of our [causal inference and missing values group]
 
 ###### News
 
-- Yesterday, I presented *Adaptive Conformal Predictions for Time Series* at the International Seminar on Distribution-Free Statistics, [(ISDFS)](https://sites.google.com/view/isdfs/home). Thanks a lot [Anastasios](https://people.eecs.berkeley.edu/~angelopoulos/) for the kind invitation!
+- Yesterday, I presented *Adaptive Conformal Predictions for Time Series* at the International Seminar on Distribution-Free Statistics [(ISDFS)](https://sites.google.com/view/isdfs/home). Thanks a lot [Anastasios](https://people.eecs.berkeley.edu/~angelopoulos/) for the kind invitation!
