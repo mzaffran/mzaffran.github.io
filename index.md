@@ -9,3 +9,7 @@ I am supervised by [Julie Josse](http://juliejosse.com/), from INRIA, and [Aymer
 My research project is about statistical learning methods for energy management.
 
 Have a look at the activities of our [causal inference and missing values group](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html) at INRIA, led by Julie Josse.
+
+###### News
+
+- Yesterday, I presented *Adaptive Conformal Predictions for Time Series* at the International Seminar on Distribution-Free Statistics, [(ISDFS)](https://sites.google.com/view/isdfs/home). Thanks a lot [Anastasios](https://people.eecs.berkeley.edu/~angelopoulos/) for the kind invitation!
