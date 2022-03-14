@@ -6,8 +6,17 @@ title: "Teaching"
 ---
 
 
-Teaching assistant at [ENSTA Paris](https://www.ensta-paris.fr/).
-#### Time series (STA202)
+Teaching assistant at [ENSTA Paris](https://www.ensta-paris.fr/en) and [Université Paris Dauphine - PSL](https://dauphine.psl.eu/en/).
+
+#### Dauphine
+
+###### Business Cases, 2022 -
+*[M2 Digital Economics](https://dauphine.psl.eu/en/training/masters-degrees/quantitative-economics/m2-digital-economics)*
+
+
+#### ENSTA Paris
+
+###### Time series (STA202), 2021 -
 *2nd year and M1 Applied Mathematics ([Université Paris-Saclay](https://www.universite-paris-saclay.fr/en))*
 
 Course taught by Yannig Goude, materials can be found on [his website](https://www.imo.universite-paris-saclay.fr/~goude/teaching.html). The codes proposed here are modified versions of his.
@@ -19,8 +28,8 @@ Course taught by Yannig Goude, materials can be found on [his website](https://w
 - Practical session 5: [exercise 1](http://mzaffran.github.io/assets/files/STA202/TP5/Exercise_1.R), [exercise 2](http://mzaffran.github.io/assets/files/STA202/TP5/Exercise_2.R), [exercise 3](http://mzaffran.github.io/assets/files/STA202/TP5/Exercise_3.R)
 - Practical session 6: [exercise 1](http://mzaffran.github.io/assets/files/STA202/TP6/Exercise_1.R), [exercise 2](http://mzaffran.github.io/assets/files/STA202/TP6/Exercise_2.R)
 
-#### Introduction to probability
+###### Introduction to probability, 2021 -
 *1st year*
 
-#### Introduction to statistics
+###### Introduction to statistics, 2021 -
 *1st year*
