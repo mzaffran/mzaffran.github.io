@@ -8,6 +8,8 @@ title: "Teaching"
 
 Teaching assistant at [ENSTA Paris](https://www.ensta-paris.fr/en) and [Université Paris Dauphine - PSL](https://dauphine.psl.eu/en/).
 
+*Availabilites for students:* you can send me an e-mail whenever you need it. I block my Friday afternoon from 4 to 6 pm to answer you on scientific subjects. If you are lucky, I can answer you at another time, but I can't guarantee it :) 
+
 #### Dauphine
 
 ###### Business Cases, 2022 -
