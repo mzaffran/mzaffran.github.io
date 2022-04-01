@@ -10,13 +10,19 @@ Teaching assistant at [ENSTA Paris](https://www.ensta-paris.fr/en) and [Universi
 
 *Availabilites for students:* you can send me an e-mail whenever you need it. I block my Friday afternoon from 4 to 6 pm to answer you on scientific subjects. If you are lucky, I can answer you at another time, but I can't guarantee it :)
 
+***
+
 #### Dauphine
 
 ###### Business Cases, 2022 -
 *[M2 Digital Economics](https://dauphine.psl.eu/en/training/masters-degrees/quantitative-economics/m2-digital-economics)*
 
 - [Jupyter notebook without answers](http://mzaffran.github.io/assets/files/Dauphine/EPF_Dauphine.zip)
+- [Jupyter notebook with answers](http://mzaffran.github.io/assets/files/Dauphine/EPF_Dauphine_correction.zip)
+- [Executed jupyter notebook as HTML](http://mzaffran.github.io/assets/files/Dauphine/EPF_BusinessCases_answers.html)
 - [Electricity french spot prices](http://mzaffran.github.io/assets/files/Dauphine/Data_2018_2021.csv)
+
+***
 
 #### ENSTA Paris
 
