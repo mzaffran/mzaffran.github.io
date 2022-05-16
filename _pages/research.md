@@ -9,6 +9,7 @@ title: "Research"
 
 - *Adaptive Conformal Predictions for Time Series*  
 M. Zaffran, A. Dieuleveut, O. Féron, Y. Goude, J. Josse  
+*ICML*, 2022
 [arXiv](https://arxiv.org/abs/2202.07282), [hal](https://hal.archives-ouvertes.fr/hal-03573934), 2022  
 [talk](https://www.youtube.com/watch?v=Yuxu9aUpVi0)   
 [code](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)
