@@ -6,7 +6,7 @@ title: "Talks"
 ---
 
 - *Adaptive Conformal Predictions for Time Series*, June 14th, 2022.  
-[Journées de statistiques 2022](https://jds2022.sciencesconf.org/), Lyon, France  
+[Journées de statistiques 2022](https://jds22.sciencesconf.org/), Lyon, France  
 [slides](http://mzaffran.github.io/assets/files/Talks/ACP_TS_JdS.pdf)
 
 - *Adaptive Conformal Predictions for Time Series*, March 3rd, 2022.  
