@@ -14,7 +14,6 @@ My research project is about statistical learning methods for energy management.
 - My Master's thesis was awarded the prize of the best end-of-studies project by [ENSTA Alumni](https://www.ensta.org/fr/). Thanks a lot to them, and to [Philippe Naveau](https://www.lsce.ipsl.fr/Phocea/Pisp/visu.php?id=44&uid=naveau) who supervised me!
 - I presented *Adaptive Conformal Predictions for Time Series* at the International Seminar on Distribution-Free Statistics [(ISDFS)](https://sites.google.com/view/isdfs/home). Thanks a lot [Anastasios](https://people.eecs.berkeley.edu/~angelopoulos/) for the kind invitation!
 
+I am a member of the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) of the French Statistical Society ([SFdS](https://www.sfds.asso.fr/)).
 
 Have a look at the activities of our [causal inference and missing values group](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html) at INRIA, led by Julie Josse, principal investigator of the [PreMeDICaL team](https://team.inria.fr/premedical/).
-
-I am a member of the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) of the French Statistical Society ([SFdS](https://www.sfds.asso.fr/)).
