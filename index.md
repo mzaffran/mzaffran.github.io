@@ -15,6 +15,6 @@ My research project is about statistical learning methods for energy management.
 - I presented *Adaptive Conformal Predictions for Time Series* at the International Seminar on Distribution-Free Statistics [(ISDFS)](https://sites.google.com/view/isdfs/home). Thanks a lot [Anastasios](https://people.eecs.berkeley.edu/~angelopoulos/) for the kind invitation!
 
 
-Have a look at the activities of our [causal inference and missing values group](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html) at INRIA, led by Julie Josse.
+Have a look at the activities of our [causal inference and missing values group](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html) at INRIA, led by Julie Josse, principal investigator of the [PreMeDICal team](https://team.inria.fr/premedical/).
 
 I am a member of the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) of the French Statistical Society ([SFdS](https://www.sfds.asso.fr/)).
