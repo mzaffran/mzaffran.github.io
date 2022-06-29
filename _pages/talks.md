@@ -5,6 +5,10 @@ author_profile: true
 title: "Talks"
 ---
 
+- *Distribution-Free Uncertainty Quantification (for Time Series)*, June 28th, 2022.  
+[Mathematical Methods of Modern Statistics 3](https://conferences.cirm-math.fr/2554.html), Marseille, France  
+[slides](http://mzaffran.github.io/assets/files/Talks/MMMS3.pdf)
+
 - *Adaptive Conformal Predictions for Time Series*, June 14th, 2022.  
 [Journées de statistiques 2022](https://jds22.sciencesconf.org/), Lyon, France  
 [slides](http://mzaffran.github.io/assets/files/Talks/ACP_TS_JdS.pdf)
