@@ -5,13 +5,12 @@ author_profile: true
 title: "Research"
 ---
 
-%###### Preprint
 ###### Publications
 
-- *Adaptive Conformal Predictions for Time Series*  
+- [*Adaptive Conformal Predictions for Time Series*](https://proceedings.mlr.press/v162/zaffran22a.html)  
 M. Zaffran, O. Féron, Y. Goude, J. Josse, A. Dieuleveut  
 *ICML*, 2022  
-[PMLR](https://proceedings.mlr.press/v162/zaffran22a.html), [arXiv](https://arxiv.org/abs/2202.07282), [hal](https://hal.archives-ouvertes.fr/hal-03573934)  
+[arXiv](https://arxiv.org/abs/2202.07282), [hal](https://hal.archives-ouvertes.fr/hal-03573934)  
 [talk](https://www.youtube.com/watch?v=Yuxu9aUpVi0)   
 [code](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)
 
