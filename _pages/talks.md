@@ -5,6 +5,10 @@ author_profile: true
 title: "Talks"
 ---
 
+- *Adaptive Conformal Predictions for Time Series*, July 28th, 2022.  
+Yaniv Romano's Group Meeting, Haifa, Israel  
+[slides](http://mzaffran.github.io/assets/files/Talks/ACP_TS_YRGM.pdf)
+
 - *Distribution-Free Uncertainty Quantification (for Time Series)*, June 28th, 2022.  
 [Mathematical Methods of Modern Statistics 3](https://conferences.cirm-math.fr/2554.html), Marseille, France  
 [slides](http://mzaffran.github.io/assets/files/Talks/MMMS3.pdf)
