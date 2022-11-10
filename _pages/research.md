@@ -7,7 +7,7 @@ title: "Research"
 
 ###### Publications
 
-- [*Adaptive Conformal Predictions for Time Series*](https://proceedings.mlr.press/v162/zaffran22a.html)  <style><a href="https://mzaffran.github.io/acp-ts"><i class="fab fa-external-link-alt"></i></a> {text-align: right}</style>  
+- [*Adaptive Conformal Predictions for Time Series*](https://proceedings.mlr.press/v162/zaffran22a.html) <a href="https://mzaffran.github.io/acp-ts"><i class="fab fa-external-link-alt"></i></a>  
 M. Zaffran, O. Féron, Y. Goude, J. Josse, A. Dieuleveut  
 *ICML*, 2022  
 [arXiv](https://arxiv.org/abs/2202.07282), [hal](https://hal.archives-ouvertes.fr/hal-03573934)  
