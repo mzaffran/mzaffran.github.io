@@ -10,7 +10,7 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
-  background-image: /assets/images/ardon.jpg;
+  background-image: url("http://mzaffran.github.io/assets/images/ardon.jpg");
 
   &__inner-wrap {
     @include clearfix;
