@@ -3,6 +3,8 @@ permalink: /research/
 layout: single
 author_profile: true
 title: "Research"
+header:
+  overlay_image: /assets/images/ardon.jpg
 ---
 
 ###### Publications
