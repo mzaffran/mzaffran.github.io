@@ -2,7 +2,7 @@
 permalink: /bio/
 layout: single
 author_profile: true
-title: "Short bio."
+title: "Short bio"
 header:
   overlay_image: /assets/images/ardon.jpg
 ---
