@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/images/ardon.jpg
+  image: /assets/images/ardon_small.jpg
 ---
 
 I am a second year PhD student at [INRIA](https://www.inria.fr/en), at [CMAP](https://portail.polytechnique.edu/cmap/en), Ecole Polytechnique, and at [EDF R&D](https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development), Saclay (CIFRE PhD).
