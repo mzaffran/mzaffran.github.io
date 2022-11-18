@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 title: "Talks"
 header:
-  overlay_image: /assets/images/ardon_small.jpg
+  overlay_image: /assets/images/ardon.jpg
 ---
 
 - *Adaptive Conformal Predictions for Time Series*, July 28th, 2022.  
