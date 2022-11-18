@@ -34,6 +34,14 @@
   </script>
 {% endif %}
 
+<!-- Dark mode -->
+{% if site.minimal_mistakes_skin2 %}
+  <meta name="color-scheme" content="light dark">
+  <style>
+    @import url("{{ '/assets/css/theme2.css' | relative_url }}") (prefers-color-scheme: dark);
+  </style>
+{% endif %}
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
 
 <!-- Link to Academicon ORDID icon -->
