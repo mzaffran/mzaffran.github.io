@@ -5,6 +5,7 @@ author_profile: true
 title: "Short bio"
 header:
   overlay_image: /assets/images/ardon.jpg
+text-align: justify
 ---
 
 I graduated from [ENSTA Paris](https://www.ensta-paris.fr/en) with a specialization in applied mathematics in 2020. In parallel, I also graduated from the [Data Science Master of Université Paris-Saclay](https://portail.polytechnique.edu/mathematiquesappliquees/fr/masters/masters/m2-data-science).
