@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 title: "Research"
 header:
-  image: /assets/images/ardon_small.jpg
+  overlay_image: /assets/images/ardon_small.jpg
 ---
 
 ###### Publications
