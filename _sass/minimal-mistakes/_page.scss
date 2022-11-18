@@ -71,7 +71,9 @@ body {
 .page__title {
   margin-top: 0;
   line-height: 1;
-
+  margin-left: auto;
+  margin-right: auto;
+	
   & + .page__meta {
     margin-top: -0.5em;
   }
@@ -81,6 +83,10 @@ body {
   font-family: $global-font-family;
   font-size: $type-size-4;
 }
+
+.btn {
+      text-shadow: 3px 3px 4px rgba(#000, 0.8);
+    }
 
 .page__content {
   h2 {
