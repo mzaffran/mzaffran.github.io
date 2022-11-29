@@ -14,6 +14,7 @@ My research project is about statistical learning methods for energy management.
 
 ###### News
 
+- The next [Young Statisticians and Probabilists day](https://www.sfds.asso.fr/en/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) will be held on January 27, 2023, in Paris. [Registrations](https://framaforms.org/inscription-aux-ysp11-registration-to-ysp11-1669218652) are now opened.
 - From August to October 2022, I was visiting [Yaniv Romano](https://sites.google.com/view/yaniv-romano/) and his group at the [Technion](https://www.technion.ac.il/en/home-2/). Thanks for hosting me!
 - Our paper, [*Adaptive Conformal Predictions for Time Series*](https://arxiv.org/abs/2202.07282), has been accepted to [ICML 2022](https://icml.cc/Conferences/2022/)!
 - My Master's thesis was awarded the prize of the best end-of-studies project by [ENSTA Alumni](https://www.ensta.org/fr/). Thanks a lot to them, and to [Philippe Naveau](https://www.lsce.ipsl.fr/Phocea/Pisp/visu.php?id=44&uid=naveau) who supervised me!
