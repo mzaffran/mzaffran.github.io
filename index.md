@@ -8,7 +8,7 @@ header:
 
 I am a second year PhD student at [INRIA](https://www.inria.fr/en), at [CMAP](https://portail.polytechnique.edu/cmap/en), Ecole Polytechnique, and at [EDF R&D](https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development), Saclay (CIFRE PhD).
 
-I am supervised by [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) from CMAP, Ecole Polytechnique, by [Julie Josse](http://juliejosse.com/), from INRIA, and by [Olivier Féron](https://www.fime-lab.org/en/feron-olivier/) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) from EDF.
+I am supervised by [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) from CMAP, Ecole Polytechnique, by [Julie Josse](http://juliejosse.com/), from INRIA, and by [Olivier Féron](https://www.fime-lab.org/en/feron-olivier/) (director of the [FiME laboratory](https://www.fime-lab.org/en/home/)) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) from EDF.
 
 My research project is about statistical learning methods for energy management. In particular, I am interested by distribution-free uncertainty quantification.
 
