@@ -11,15 +11,14 @@ header:
 
 - [*Adaptive Conformal Predictions for Time Series*](https://proceedings.mlr.press/v162/zaffran22a.html)
     <span style="float:right;">
-        <a href="http://mzaffran.github.io/acp-ts"> link </a>
+        <a href="http://mzaffran.github.io/acp-ts"> <i class="fas fa-fw fa-sun"></i> </a>
     </span>  
 M. Zaffran, O. Féron, Y. Goude, J. Josse, A. Dieuleveut  
 *ICML*, 2022   
 [45' talk](https://www.youtube.com/watch?v=Yuxu9aUpVi0)   
 [code](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)  
-<i class="fab fa-faw fa-folder-open"></i>  
+<i class="fas fa-faw fa-folder-open"></i>  
 <i class="fas fa-fw fa-sun"></i>
-![ fa-icon](https://fontawesome.com/icons/folder-open)
 
 - [*qgam: Bayesian non-parametric quantile regression modelling in R*](https://www.jstatsoft.org/article/view/v100i09)  
 M. Fasiolo, S. N. Wood, M. Zaffran, R. Nedellec, Y. Goude  
