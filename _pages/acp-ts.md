@@ -3,9 +3,12 @@ permalink: /acp-ts/
 layout: single
 author_profile: true
 title: "Adaptive Conformal Predictions for Time Series"
+header:
+  overlay_image: /assets/images/ardon.jpg
 ---
 
 - [Paper](https://proceedings.mlr.press/v162/zaffran22a.html)
+- [arXiv](https://arxiv.org/abs/2202.07282), [hal](https://hal.archives-ouvertes.fr/hal-03573934) 
 - [recorded 5' talk](https://icml.cc/virtual/2022/spotlight/17818), [live 5' talk at ICML](https://slideslive.com/38983531/adaptive-conformal-predictions-for-time-series)
 - [45' talk](https://www.youtube.com/watch?v=Yuxu9aUpVi0)
 - [GitHub repository](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)

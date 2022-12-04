@@ -14,8 +14,7 @@ header:
         <a href="http://mzaffran.github.io/acp-ts">*link*</a>
     </span>  
 M. Zaffran, O. Féron, Y. Goude, J. Josse, A. Dieuleveut  
-*ICML*, 2022  
-[arXiv](https://arxiv.org/abs/2202.07282), [hal](https://hal.archives-ouvertes.fr/hal-03573934)  
+*ICML*, 2022   
 [45' talk](https://www.youtube.com/watch?v=Yuxu9aUpVi0)   
 [code](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)
 
