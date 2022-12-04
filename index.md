@@ -23,7 +23,7 @@ My research project is about statistical learning methods for energy management.
 
 *January 5, 2023.* The award ceremony of the [Séphora Berrebi Scholarships](https://www.sephoraberrebi.ai/) will be held at the Institut Henri Poincaré, in Paris.
 
-*January 27, 2023.* The next [Young Statisticians and Probabilists day](https://www.sfds.asso.fr/en/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) will be in Paris. [Registrations](https://framaforms.org/inscription-aux-ysp11-registration-to-ysp11-1669218652) are now opened.
+*January 27, 2023.* The next [Young Statisticians and Probabilists day](https://www.sfds.asso.fr/en/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) will be held in Paris. [Registrations](https://framaforms.org/inscription-aux-ysp11-registration-to-ysp11-1669218652) are now opened.
 
 *February 13, 2023.* I will give a talk at the [PhD students seminar](https://www.lpsm.paris/en/seminaires/gtt/index) of [LPSM](https://www.lpsm.paris/en/index).
 
