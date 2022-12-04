@@ -12,6 +12,8 @@ I am supervised by [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeri
 
 My research project is about statistical learning methods for energy management. In particular, I am interested by distribution-free uncertainty quantification.
 
+***
+
 ###### News
 
 - The next [Young Statisticians and Probabilists day](https://www.sfds.asso.fr/en/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) will be held on January 27, 2023, in Paris. [Registrations](https://framaforms.org/inscription-aux-ysp11-registration-to-ysp11-1669218652) are now opened.
