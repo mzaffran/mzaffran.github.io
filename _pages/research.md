@@ -9,8 +9,8 @@ header:
 
 ###### Publications
 
-- [*Adaptive Conformal Predictions for Time Series*](https://proceedings.mlr.press/v162/zaffran22a.html)  
-This text is on the right 
+- [*Adaptive Conformal Predictions for Time Series*](https://proceedings.mlr.press/v162/zaffran22a.html){:}
+This text is on the right
 {: style="text-align: right" }
 M. Zaffran, O. Féron, Y. Goude, J. Josse, A. Dieuleveut  
 *ICML*, 2022  
