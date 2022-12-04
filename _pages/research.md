@@ -17,7 +17,8 @@ M. Zaffran, O. Féron, Y. Goude, J. Josse, A. Dieuleveut
 *ICML*, 2022   
 [45' talk](https://www.youtube.com/watch?v=Yuxu9aUpVi0)   
 [code](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)  
-<i class="fab fa-faw fa-folder-open"></i>
+<i class="fab fa-faw fa-folder-open"></i>  
+<i class="fas fa-fw fa-sun"></i>
 ![ fa-icon](https://fontawesome.com/icons/folder-open)
 
 - [*qgam: Bayesian non-parametric quantile regression modelling in R*](https://www.jstatsoft.org/article/view/v100i09)  
