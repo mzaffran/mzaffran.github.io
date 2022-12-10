@@ -7,11 +7,11 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <table border="0">
  <tr>
     <td>
         <ul>
+        <p style="font-size: 26px">
           <li> <a href="https://proceedings.mlr.press/v162/zaffran22a.html">Paper</a> </li>
           <li> <a href="https://arxiv.org/abs/2202.07282">ArXiv</a>, <a href="https://hal.archives-ouvertes.fr/hal-03573934">hal</a> </li>
          <li> <a href="http://mzaffran.github.io/assets/files/Posters/acp_ts_summary.pdf">Short summary</a> </li>
@@ -19,13 +19,14 @@ header:
          <li> <a href="https://icml.cc/virtual/2022/spotlight/17818">Recorded 5' talk</a>, <a href="https://slideslive.com/38983531/adaptive-conformal-predictions-for-time-series">live 5' talk at ICML</a> </li>
          <li> <a href="https://www.youtube.com/watch?v=Yuxu9aUpVi0">45' talk</a> </li>
          <li> <a href="https://github.com/mzaffran/adaptiveconformalpredictionstimeseries">GitHub repository</a> </li>
+        </p>
         </ul>  
     </td>
     <td>
         <p align="center">
             <img src="http://mzaffran.github.io/assets/images/cartoon_theo.jpg" alt="Nice cartoon by Théo Remlinger" width="200"/>
         </p>  
-        <em>Cartoon made by Théo Remling @theo.remlinger</em>
+        <em>Cartoon made by Théo Remlinger @theo.remlinger</em>
     </td>
  </tr>
 </table>
