@@ -15,7 +15,9 @@ header:
 - [45' talk](https://www.youtube.com/watch?v=Yuxu9aUpVi0)
 - [GitHub repository](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)
 
+<p align="center">
 <img src="http://mzaffran.github.io/assets/images/cartoon_theo.jpg" alt="Nice cartoon by Théo Remlinger" width="200"/>
+</p>  
 *Cartoon made by Théo Remling @theo.remlinger*
 
-<> The paper will be presented at [ICML 2022 main conference](https://icml.cc/), as well as at [ICML Distribution-Free Uncertainty Quantification workshop](https://sites.google.com/berkeley.edu/dfuq-22/home)! Feel free to reach out :)
+The paper will be presented at [ICML 2022 main conference](https://icml.cc/), as well as at [ICML Distribution-Free Uncertainty Quantification workshop](https://sites.google.com/berkeley.edu/dfuq-22/home)! Feel free to reach out :)
