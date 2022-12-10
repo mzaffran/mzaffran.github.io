@@ -20,10 +20,8 @@ header:
          <li> <a href="https://github.com/mzaffran/adaptiveconformalpredictionstimeseries">GitHub repository</a> </li>
         </ul>  
     </td>
-    <td>
-        <p align="right">
-            <img src="http://mzaffran.github.io/assets/images/cartoon_theo.jpg" alt="Nice cartoon by Théo Remlinger" width="350"/>
-        </p>
+    <td style="text-align: right">
+            <img src="http://mzaffran.github.io/assets/images/cartoon_theo.jpg" alt="Nice cartoon by Théo Remlinger" width="300"/>
         <p align="center">
         <em>Cartoon made by Théo Remlinger @theo.remlinger</em>
         </p>
