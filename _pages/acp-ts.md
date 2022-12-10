@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
-<table border="0" cellspacing="600">
+<table border="0" cellspacing=600>
  <tr>
     <td>
         <ul style="font-size: 18px">
