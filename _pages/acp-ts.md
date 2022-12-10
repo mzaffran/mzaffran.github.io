@@ -10,7 +10,7 @@ header:
 <table border="0">
  <tr>
     <td>
-        <ul style="font-size: 20px">
+        <ul style="font-size: 18px">
           <li> <a href="https://proceedings.mlr.press/v162/zaffran22a.html">Paper</a> </li>
           <li> <a href="https://arxiv.org/abs/2202.07282">ArXiv</a>, <a href="https://hal.archives-ouvertes.fr/hal-03573934">hal</a> </li>
          <li> <a href="http://mzaffran.github.io/assets/files/Posters/acp_ts_summary.pdf">Short summary</a> </li>
@@ -21,7 +21,7 @@ header:
         </ul>  
     </td>
     <td>
-        <p align="center">
+        <p align="right">
             <img src="http://mzaffran.github.io/assets/images/cartoon_theo.jpg" alt="Nice cartoon by Théo Remlinger" width="200"/>
         </p>  
         <em>Cartoon made by Théo Remlinger @theo.remlinger</em>
