@@ -10,8 +10,8 @@ header:
 <table border="0">
  <tr>
     <td>
-        <ul style="font-size: 18px">
-          <li style="font-size: 18px"> <a href="https://proceedings.mlr.press/v162/zaffran22a.html">Paper</a> </li>
+        <ul style="font-size: 20px">
+          <li> <a href="https://proceedings.mlr.press/v162/zaffran22a.html">Paper</a> </li>
           <li> <a href="https://arxiv.org/abs/2202.07282">ArXiv</a>, <a href="https://hal.archives-ouvertes.fr/hal-03573934">hal</a> </li>
          <li> <a href="http://mzaffran.github.io/assets/files/Posters/acp_ts_summary.pdf">Short summary</a> </li>
          <li> <a href="http://mzaffran.github.io/assets/files/Posters/acp_ts_icml_poster.pdf">ICML poster</a>, <a href="http://mzaffran.github.io/assets/files/Posters/acp_ts_dfuq_poster.pdf">DFUQ poster</a> </li>
