@@ -22,9 +22,11 @@ header:
     </td>
     <td>
         <p align="right">
-            <img src="http://mzaffran.github.io/assets/images/cartoon_theo.jpg" alt="Nice cartoon by Théo Remlinger" width="200"/>
-        </p>  
+            <img src="http://mzaffran.github.io/assets/images/cartoon_theo.jpg" alt="Nice cartoon by Théo Remlinger" width="250"/>
+        </p>
+        <p align="center">
         <em>Cartoon made by Théo Remlinger @theo.remlinger</em>
+        </p>
     </td>
  </tr>
 </table>
