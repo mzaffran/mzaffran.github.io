@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
-<table border="0">
+<table border="0" cellspacing="100">
  <tr>
     <td>
         <ul style="font-size: 18px">
@@ -20,7 +20,7 @@ header:
          <li> <a href="https://github.com/mzaffran/adaptiveconformalpredictionstimeseries">GitHub repository</a> </li>
         </ul>  
     </td>
-    <td style="text-align: right">
+    <td>
             <img src="http://mzaffran.github.io/assets/images/cartoon_theo.jpg" alt="Nice cartoon by Théo Remlinger" width="300"/>
         <p align="center">
         <em>Cartoon made by Théo Remlinger @theo.remlinger</em>
