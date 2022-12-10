@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 title: "Adaptive Conformal Predictions for Time Series"
 header:
-  overlay_image: /assets/images/ardon.jpg
+  overlay_image: /assets/images/cartoon_theo.jpg
 ---
 
 - [Paper](https://proceedings.mlr.press/v162/zaffran22a.html)
