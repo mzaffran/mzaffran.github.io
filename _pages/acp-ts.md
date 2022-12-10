@@ -11,7 +11,7 @@ header:
  <tr>
     <td>
         <ul>
-          <li> <a href="https://proceedings.mlr.press/v162/zaffran22a.html"><p style="font-size: 26px">Paper</a></p> </li>
+          <li> <a href="https://proceedings.mlr.press/v162/zaffran22a.html"><p style="font-size: 26px">Paper</p></a> </li>
           <li> <a href="https://arxiv.org/abs/2202.07282">ArXiv</a>, <a href="https://hal.archives-ouvertes.fr/hal-03573934">hal</a> </li>
          <li> <a href="http://mzaffran.github.io/assets/files/Posters/acp_ts_summary.pdf">Short summary</a> </li>
          <li> <a href="http://mzaffran.github.io/assets/files/Posters/acp_ts_icml_poster.pdf">ICML poster</a>, <a href="http://mzaffran.github.io/assets/files/Posters/acp_ts_dfuq_poster.pdf">DFUQ poster</a> </li>
