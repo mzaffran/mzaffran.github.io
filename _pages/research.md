@@ -9,7 +9,7 @@ header:
 
 ###### Pre-print
 
-- *Conformal Prediction with Missing Values*
+- *Conformal Prediction with Missing Values*  
 M. Zaffran, A. Dieuleveut, J. Josse, Y. Romano  
 *to come*
 
