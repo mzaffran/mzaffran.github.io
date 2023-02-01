@@ -29,3 +29,11 @@ Yaniv Romano's Group Meeting, Haifa, Israel
 - *Une nouvelle dissimilarité pour le partitionnement spatial de pluies extrêmes, non-paramétrique et liant théorie des valeurs extrêmes bivariée et marginales*), June 8th, 2021.  
 [Journées de statistiques 2021](https://jds2021.sciencesconf.org/), online  
 [slides](http://mzaffran.github.io/assets/files/Talks/JdS_210608.pdf)
+
+***
+
+###### Outreach talks
+
+- *Rendre moins incertain l'avenir des énergies renouvelables*, January 5th, 2023.  
+Award ceremony of the [Séphora Berrebi Scholarship for Women in Mathematics](https://www.sephoraberrebi.ai/), Paris, France  
+[slides](http://mzaffran.github.io/assets/files/Talks/UQ_ENR_230105.pdf)  
