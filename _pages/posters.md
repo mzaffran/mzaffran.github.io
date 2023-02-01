@@ -23,8 +23,8 @@ header:
 FiME Days, Palaiseau, France  
 
 <p align="center">
-    <img src="http://mzaffran.github.io/assets/images/poster.jpg" alt="ICML 2022 poster session" width="300"/>  
+    <img src="http://mzaffran.github.io/assets/images/poster.pdf" alt="ICML 2022 poster session" width="300"/>  
 </p>   
 <p align="center">     
-    <em>Thanks [Eugène](https://eugenendiaye.github.io/) for the picture!</em>
+    <em>Thanks <a href="https://eugenendiaye.github.io/">Eugène</a> for the picture!</em>
 </p>
