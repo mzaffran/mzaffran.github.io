@@ -10,7 +10,7 @@ header:
 - [Paper](https://proceedings.mlr.press/v162/zaffran22a.html)
 - [ArXiv](https://arxiv.org/abs/2202.07282), [hal](https://hal.archives-ouvertes.fr/hal-03573934)
 - [Short summary](http://mzaffran.github.io/assets/files/Posters/acp_ts_summary.pdf)
-- [ICML poster](http://mzaffran.github.io/assets/files/Posters/acp_ts_icml_poster.pdf), [DFUQ poster](http://mzaffran.github.io/assets/files/Posters/acp_ts_dfuq_poster.pdf)
+- [ICML poster](http://mzaffran.github.io/assets/files/Posters/acp_ts_icml_poster.pdf), [DFUQ spotlight poster](http://mzaffran.github.io/assets/files/Posters/acp_ts_dfuq_poster.pdf)
 - [Recorded 5' talk](https://icml.cc/virtual/2022/spotlight/17818), [live 5' talk at ICML](https://slideslive.com/38983531/adaptive-conformal-predictions-for-time-series)
 - [45' talk](https://www.youtube.com/watch?v=Yuxu9aUpVi0)
 - [GitHub repository](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)
