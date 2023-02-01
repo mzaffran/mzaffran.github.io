@@ -10,7 +10,7 @@ I am a third year PhD student at [INRIA](https://www.inria.fr/en), at [CMAP](htt
 
 I am supervised by [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) from CMAP, Ecole Polytechnique, by [Julie Josse](http://juliejosse.com/), from INRIA, and by [Olivier Féron](https://www.fime-lab.org/en/feron-olivier/) (director of the [FiME laboratory](https://www.fime-lab.org/en/home/)) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) from EDF.
 
-My research project is about statistical learning methods for energy management. In particular, I am interested by distribution-free uncertainty quantification.
+My research project is about statistical learning methods for energy management. In particular, I am interested in distribution-free uncertainty quantification.
 
 ##### Events to come
 
