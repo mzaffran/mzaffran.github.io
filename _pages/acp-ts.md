@@ -22,4 +22,4 @@ header:
     <em>Cartoon made by Théo Remlinger @theo.remlinger</em>
 </p>
 
-The paper will be presented at [ICML 2022 main conference](https://icml.cc/), as well as at [ICML Distribution-Free Uncertainty Quantification workshop](https://sites.google.com/berkeley.edu/dfuq-22/home)! Feel free to reach out :)
+The paper will be presented at [ICML 2022 main conference](https://icml.cc/), as well as at [ICML Distribution-Free Uncertainty Quantification workshop](https://sites.google.com/berkeley.edu/dfuq-22/home) as a spotlight! Feel free to reach out :)

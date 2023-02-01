@@ -14,21 +14,24 @@ My research project is about statistical learning methods for energy management.
 
 ##### Events to come
 
-*January 5, 2023.* The award ceremony of the [Séphora Berrebi Scholarships](https://www.sephoraberrebi.ai/) will be held at the Institut Henri Poincaré, in Paris.
+*February 9, 2023.* I will give a talk at the [MIA seminar](https://www6.inrae.fr/mia-paris/Seminaires/Seminaire-MIA-Paris-Saclay) of [AgroParisTech](https://www.agroparistech.fr/en). Thanks for the invitation!
 
-*January 27, 2023.* The next [Young Statisticians and Probabilists day](https://www.sfds.asso.fr/en/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) will be held in Paris. [Registrations](https://framaforms.org/inscription-aux-ysp11-registration-to-ysp11-1669218652) are now opened.
-
-*February 13, 2023.* I will give a talk at the [PhD students seminar](https://www.lpsm.paris/en/seminaires/gtt/index) of [LPSM](https://www.lpsm.paris/en/index).
+*February 13, 2023.* I will give a talk at the [PhD students seminar](https://www.lpsm.paris/en/seminaires/gtt/index) of [LPSM](https://www.lpsm.paris/en/index). Thanks for the invitation!
 
 ##### News
 
+- The [Young Statisticians and Probabilists](https://www.sfds.asso.fr/en/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) day was held, thanks to all the speakers for the amazing talks! You can find the slides and their contact [here](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) (very soon).  
+- I was very honored to receive the [Séphora Berrebi Scholarships for Women in Advanced Mathematics](https://www.sephoraberrebi.ai/). Many thanks to the [Séphora Berrebi Association](https://www.sephoraberrebi.org/).
 - From August to October 2022, I was visiting [Yaniv Romano](https://sites.google.com/view/yaniv-romano/) and his group at the [Technion](https://www.technion.ac.il/en/home-2/). Thanks for hosting me! I also thank the [FMJH and LMH](https://www.fondation-hadamard.fr/en/fmjh-supports/research/junior-scientific-visibility/) for funding this stay abroad.
-- Our paper, [*Adaptive Conformal Predictions for Time Series*](https://arxiv.org/abs/2202.07282), has been accepted to [ICML 2022](https://icml.cc/Conferences/2022/)!
-- My Master's thesis was awarded the prize of the best end-of-studies project by [ENSTA Alumni](https://www.ensta.org/fr/). Thanks a lot to them, and to [Philippe Naveau](https://www.lsce.ipsl.fr/Phocea/Pisp/visu.php?id=44&uid=naveau) who supervised me!
-- I presented *Adaptive Conformal Predictions for Time Series* at the International Seminar on Distribution-Free Statistics [(ISDFS)](https://sites.google.com/view/isdfs/home). Thanks a lot [Anastasios](https://people.eecs.berkeley.edu/~angelopoulos/) for the kind invitation!
 
 ##### Community
 
 I am the current vice-president of the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) of the French Statistical Society ([SFdS](https://www.sfds.asso.fr/)).
 
 Have a look at the activities of our [causal inference and missing values group](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html) at INRIA, led by Julie Josse, principal investigator of the [PreMeDICaL team](https://team.inria.fr/premedical/).
+
+##### News archive
+
+- Our paper, [*Adaptive Conformal Predictions for Time Series*](https://arxiv.org/abs/2202.07282), has been accepted to [ICML 2022](https://icml.cc/Conferences/2022/)!
+- My Master's thesis was awarded the prize of the best end-of-studies project by [ENSTA Alumni](https://www.ensta.org/fr/). Thanks a lot to them, and to [Philippe Naveau](https://www.lsce.ipsl.fr/Phocea/Pisp/visu.php?id=44&uid=naveau) who supervised me!
+- I presented *Adaptive Conformal Predictions for Time Series* at the International Seminar on Distribution-Free Statistics [(ISDFS)](https://sites.google.com/view/isdfs/home). Thanks a lot [Anastasios](https://people.eecs.berkeley.edu/~angelopoulos/) for the kind invitation!
