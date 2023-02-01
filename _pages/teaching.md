@@ -26,7 +26,7 @@ Teaching assistant at [ENSTA Paris](https://www.ensta-paris.fr/en) and [Universi
 ***
 #### ENSTA Paris
 
-###### Time series (STA202), 2021 -
+###### Time series (STA202), 2021 and 2022
 *2nd year and M1 Applied Mathematics ([Université Paris-Saclay](https://www.universite-paris-saclay.fr/en))*
 
 Course taught by Yannig Goude, materials can be found on [his website](https://www.imo.universite-paris-saclay.fr/~goude/teaching.html). The codes proposed here are modified versions of his.
