@@ -7,6 +7,12 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
+###### Pre-print
+
+- *Conformal Prediction with Missing Values*
+M. Zaffran, A. Dieuleveut, J. Josse, Y. Romano  
+*to come*
+
 ###### Publications
 
 - [*Adaptive Conformal Predictions for Time Series*](https://proceedings.mlr.press/v162/zaffran22a.html)

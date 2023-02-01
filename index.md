@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
-I am a second year PhD student at [INRIA](https://www.inria.fr/en), at [CMAP](https://portail.polytechnique.edu/cmap/en), Ecole Polytechnique, and at [EDF R&D](https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development), Saclay (CIFRE PhD).
+I am a third year PhD student at [INRIA](https://www.inria.fr/en), at [CMAP](https://portail.polytechnique.edu/cmap/en), Ecole Polytechnique, and at [EDF R&D](https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development), Saclay (CIFRE PhD).
 
 I am supervised by [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) from CMAP, Ecole Polytechnique, by [Julie Josse](http://juliejosse.com/), from INRIA, and by [Olivier Féron](https://www.fime-lab.org/en/feron-olivier/) (director of the [FiME laboratory](https://www.fime-lab.org/en/home/)) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) from EDF.
 
@@ -14,9 +14,9 @@ My research project is about statistical learning methods for energy management.
 
 ##### Events to come
 
-*February 9, 2023.* I will give a talk at the [MIA seminar](https://www6.inrae.fr/mia-paris/Seminaires/Seminaire-MIA-Paris-Saclay) of [AgroParisTech](https://www.agroparistech.fr/en). Thanks for the invitation!
+*February 9, 2023.* I will give a talk on conformal prediction with missing values at the [MIA seminar](https://www6.inrae.fr/mia-paris/Seminaires/Seminaire-MIA-Paris-Saclay) of [AgroParisTech](https://www.agroparistech.fr/en). Thanks for the invitation!
 
-*February 13, 2023.* I will give a talk at the [PhD students seminar](https://www.lpsm.paris/en/seminaires/gtt/index) of [LPSM](https://www.lpsm.paris/en/index). Thanks for the invitation!
+*February 13, 2023.* I will give a talk on conformal prediction with missing values at the [PhD students seminar](https://www.lpsm.paris/en/seminaires/gtt/index) of [LPSM](https://www.lpsm.paris/en/index). Thanks for the invitation!
 
 ##### News
 
