@@ -21,3 +21,10 @@ header:
 
 - *Electricity Price Forecasting*, September 22th, 2021.  
 FiME Days, Palaiseau, France  
+
+<p align="center">
+    <img src="http://mzaffran.github.io/assets/images/poster.jpg" alt="ICML 2022 poster session" width="300"/>  
+</p>   
+<p align="center">     
+    <em>Thanks [Eugène](https://eugenendiaye.github.io/) for the picture!</em>
+</p>
