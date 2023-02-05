@@ -39,19 +39,19 @@ body {
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: 0em ; /* $right-sidebar-width-narrow */
+    padding-right: 10em ; /* $right-sidebar-width-narrow */
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-right: 0em; /* $right-sidebar-width */
+    padding-right: 10em; /* $right-sidebar-width */
   }
 
   .page__inner-wrap {
     float: left;
     margin-top: 0em;
     margin-left: 0;
-    margin-right: 0;
+    margin-right: 10em;
     width: 100%;
     clear: both;
 
@@ -73,7 +73,7 @@ body {
   line-height: 1;
   margin-left: auto;
   margin-right: auto;
-	
+
   & + .page__meta {
     margin-top: -0.5em;
   }
