@@ -18,7 +18,7 @@ Teaching assistant at [ENSTA Paris](https://www.ensta-paris.fr/en) and [Universi
 ###### Business Cases, 2022 -
 *[M2 Digital Economics](https://dauphine.psl.eu/en/training/masters-degrees/quantitative-economics/m2-digital-economics)*
 
-- [Jupyter notebook without answers](http://mzaffran.github.io/assets/files/Dauphine/EPF_Dauphine.zip)
+- [Jupyter notebook without answers](http://mzaffran.github.io/assets/files/Dauphine/EPF_Dauphine_2023.zip)
 - [Electricity french spot prices](http://mzaffran.github.io/assets/files/Dauphine/Data_2018_2021.csv)
 
 ***
