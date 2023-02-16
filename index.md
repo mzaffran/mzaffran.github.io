@@ -16,7 +16,7 @@ My research project is about statistical learning methods for energy management.
 
 *February 9, 2023.* I will give a talk on conformal prediction with missing values at the [MIA seminar](https://www6.inrae.fr/mia-paris/Seminaires/Seminaire-MIA-Paris-Saclay) of [AgroParisTech](https://www.agroparistech.fr/en). Thanks for the invitation!
 
-*February 13, 2023.* I will give a talk on conformal prediction with missing values at the [PhD students seminar](https://www.lpsm.paris/en/seminaires/gtt/index) of [LPSM](https://www.lpsm.paris/en/index). Thanks for the invitation!
+*February 20, 2023.* I will give a talk on conformal prediction with missing values at the [PhD students seminar](https://www.lpsm.paris/en/seminaires/gtt/index) of [LPSM](https://www.lpsm.paris/en/index). Thanks for the invitation!
 
 ##### News
 

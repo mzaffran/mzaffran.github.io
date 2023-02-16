@@ -26,6 +26,12 @@ Teaching assistant at [ENSTA Paris](https://www.ensta-paris.fr/en) and [Universi
 ***
 #### ENSTA Paris
 
+###### Introduction to probability, 2021 -
+*1st year (equiv. L3)*
+
+###### Introduction to statistics, 2021 -
+*1st year (equiv. L3)*
+
 ###### Time series (STA202), 2021 and 2022
 *2nd year and M1 Applied Mathematics ([Université Paris-Saclay](https://www.universite-paris-saclay.fr/en))*
 
@@ -37,9 +43,3 @@ Course taught by Yannig Goude, materials can be found on [his website](https://w
 - Practical session 4: [exercise 2](http://mzaffran.github.io/assets/files/STA202/TP4/Exercise_2.R) <sub><sup>*(uploaded on 19/02/2022)*</sup></sub>
 - Practical session 5: [exercise 1](http://mzaffran.github.io/assets/files/STA202/TP5/Exercise_1.R), [exercise 2](http://mzaffran.github.io/assets/files/STA202/TP5/Exercise_2.R), [exercise 3](http://mzaffran.github.io/assets/files/STA202/TP5/Exercise_3.R)
 - Practical session 6: [exercise 1](http://mzaffran.github.io/assets/files/STA202/TP6/Exercise_1.R), [exercise 2](http://mzaffran.github.io/assets/files/STA202/TP6/Exercise_2.R)
-
-###### Introduction to probability, 2021 -
-*1st year*
-
-###### Introduction to statistics, 2021 -
-*1st year*
