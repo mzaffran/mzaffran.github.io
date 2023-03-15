@@ -14,9 +14,9 @@ My research project is about statistical learning methods for energy management.
 
 ##### Events to come
 
-*February 9, 2023.* I will give a talk on conformal prediction with missing values at the [MIA seminar](https://www6.inrae.fr/mia-paris/Seminaires/Seminaire-MIA-Paris-Saclay) of [AgroParisTech](https://www.agroparistech.fr/en). Thanks for the invitation!
+*April 6-7, 2023.* I will attend [StatLearn workshop](https://statlearn.sciencesconf.org/) in Montpellier! Always happy to grab a coffee :) I will also present there a poster on conformal prediction with missing values.
 
-*February 20, 2023.* I will give a talk on conformal prediction with missing values at the [PhD students seminar](https://www.lpsm.paris/en/seminaires/gtt/index) of [LPSM](https://www.lpsm.paris/en/index). Thanks for the invitation!
+*April 25, 2023.* With [Claire Boyer](https://perso.lpsm.paris/~cboyer/), we will give a course on uncertainty quantification in machine learning at [FEMSTO-ST](https://www.femto-st.fr/en). Thanks Claire for this opportunity!
 
 ##### News
 
@@ -29,6 +29,8 @@ My research project is about statistical learning methods for energy management.
 I am the current vice-president of the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) of the French Statistical Society ([SFdS](https://www.sfds.asso.fr/)).
 
 Have a look at the activities of our [causal inference and missing values group](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html) at INRIA, led by Julie Josse, principal investigator of the [PreMeDICaL team](https://team.inria.fr/premedical/).
+
+I served as a reviewer for [AISTATS 2023](https://www.google.com/search?client=firefox-b-d&q=aistats+2023) ([10% top reviewer](http://aistats.org/aistats2023/reviewers.html)) and for the [Journal of Business and Economics Statistics](https://www.tandfonline.com/journals/ubes20).
 
 ##### News archive
 

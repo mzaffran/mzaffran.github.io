@@ -11,7 +11,8 @@ header:
 
 - *Conformal Prediction with Missing Values*  
 M. Zaffran, A. Dieuleveut, J. Josse, Y. Romano  
-*to come*
+2023  
+[hal](https://hal.science/hal-03896384)
 
 ###### Publications
 
