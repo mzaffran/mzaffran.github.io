@@ -8,7 +8,7 @@ header:
 ---
 
 - *Conformal Prediction with Missing Values*, March 6th, 2023.  
-[Causal Inference and Missing Data Seminar (INRIA)]((https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html), online  
+[Causal Inference and Missing Data Seminar (INRIA)](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html), online  
 [slides](http://mzaffran.github.io/assets/files/Talks/CPNA_CIMD.pdf)
 
 - *Conformal Prediction with Missing Values*, February 20th, 2023.  
