@@ -28,7 +28,7 @@ Yaniv Romano's Group Meeting, Haifa, Israel
 [slides](http://mzaffran.github.io/assets/files/Talks/MMMS3.pdf)
 
 - *Adaptive Conformal Predictions for Time Series*, June 14th, 2022.  
-[Journées de statistiques 2022](https://jds22.sciencesconf.org/), Lyon, France  
+[Journées de Statistiques 2022](https://jds22.sciencesconf.org/), Lyon, France  
 [slides](http://mzaffran.github.io/assets/files/Talks/ACP_TS_JdS.pdf)
 
 - *Adaptive Conformal Predictions for Time Series*, March 3rd, 2022.  
@@ -39,7 +39,7 @@ Yaniv Romano's Group Meeting, Haifa, Israel
 [slides](http://mzaffran.github.io/assets/files/Talks/Conformal_Prediction_for_Time_Series_An_application_to_forecasting_electricity_French_Spot_prices_Detailed.pdf)
 
 - *Une nouvelle dissimilarité pour le partitionnement spatial de pluies extrêmes, non-paramétrique et liant théorie des valeurs extrêmes bivariée et marginales*), June 8th, 2021.  
-[Journées de statistiques 2021](https://jds2021.sciencesconf.org/), online  
+[Journées de Statistiques 2021](https://jds2021.sciencesconf.org/), online  
 [slides](http://mzaffran.github.io/assets/files/Talks/JdS_210608.pdf)
 
 ***
