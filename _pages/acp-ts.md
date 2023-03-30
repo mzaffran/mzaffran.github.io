@@ -7,6 +7,8 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
+This project is conducted in collaboration with Olivier Féron, Yannig Goude, Julie Josse and Aymeric Dieuleveut.
+
 - [Paper](https://proceedings.mlr.press/v162/zaffran22a.html)
 - [ArXiv](https://arxiv.org/abs/2202.07282), [hal](https://hal.archives-ouvertes.fr/hal-03573934)
 - [Short summary](http://mzaffran.github.io/assets/files/Posters/acp_ts_summary.pdf)

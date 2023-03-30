@@ -9,7 +9,10 @@ header:
 
 ###### Pre-print
 
-- *Conformal Prediction with Missing Values*  
+- *Conformal Prediction with Missing Values*
+    <span style="float:right;">
+        <a href="http://mzaffran.github.io/uq-na"> <i class="fas fa-fw fa-folder-open"></i>  </a>
+    </span>  
 M. Zaffran, A. Dieuleveut, J. Josse, Y. Romano  
 2023  
 [hal](https://hal.science/hal-03896384)
