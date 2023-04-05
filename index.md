@@ -16,7 +16,7 @@ My research project is about statistical learning methods for energy management.
 
 *April 6-7, 2023.* I will attend [StatLearn workshop](https://statlearn.sciencesconf.org/) in Montpellier! Always happy to grab a coffee :) I will also present there a poster on conformal prediction with missing values.
 
-*April 25, 2023.* With [Claire Boyer](https://perso.lpsm.paris/~cboyer/), we will give a course on uncertainty quantification in machine learning at [FEMTO-ST](https://www.femto-st.fr/en). Thanks Claire for this opportunity!
+*April 25, 2023.* With [Claire Boyer](https://perso.lpsm.paris/~cboyer/), we will give a course on uncertainty quantification in machine learning at [FEMTO-ST](https://www.femto-st.fr/en), for the [MASPIN days](https://www.femto-st.fr/fr/L-institut/evenements/2eme-edition-des-journees-maspin-mathematiques-appliquees-et-sciences-pour). Thanks Claire for this opportunity!
 
 ##### News
 
