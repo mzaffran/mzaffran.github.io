@@ -7,6 +7,10 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
+- *Conformal Prediction with Missing Values*, April 6th, 2023.
+[StatLearn workshop](https://statlearn.sciencesconf.org/), Montpellier, France  
+[poster](http://mzaffran.github.io/assets/files/Posters/cp_na_statlearn_poster.pdf)
+
 - *Uncertainty Quantification with Missing Values*, December 15th, 2022.  
 [International Conference on Statistics and Data Science](https://sites.google.com/view/icsds2022), Florence, Italy  
 [poster](http://mzaffran.github.io/assets/files/Posters/uq_na_icsds_poster.pdf)
