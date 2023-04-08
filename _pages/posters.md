@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
-- *Conformal Prediction with Missing Values*, April 6th, 2023.
+- *Conformal Prediction with Missing Values*, April 6th, 2023.  
 [StatLearn workshop](https://statlearn.sciencesconf.org/), Montpellier, France  
 [poster](http://mzaffran.github.io/assets/files/Posters/cp_na_statlearn_poster.pdf)
 
