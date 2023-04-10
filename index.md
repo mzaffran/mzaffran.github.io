@@ -12,7 +12,7 @@ I am supervised by [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeri
 
 My research project is about statistical learning methods for energy management. In particular, I am interested in distribution-free uncertainty quantification.
 
-##### Events to come
+##### Upcoming events
 
 *April 25, 2023.* With [Claire Boyer](https://perso.lpsm.paris/~cboyer/), we will give a course on uncertainty quantification in machine learning at [FEMTO-ST](https://www.femto-st.fr/en), for the [MASPIN days](https://www.femto-st.fr/fr/L-institut/evenements/2eme-edition-des-journees-maspin-mathematiques-appliquees-et-sciences-pour). Thanks Claire for this opportunity!
 
