@@ -18,7 +18,7 @@ My research project is about statistical learning methods for energy management.
 
 ##### News
 
-- Super happy that the work with Aymeric, Julie and [Yaniv Romano](https://sites.google.com/view/yaniv-romano/), [*Conformal Prediction with Missing Values*](https://hal.science/hal-03896384), was accepted for [ICML 2023](https://icml.cc/Conferences/2023/)!
+- Super happy that the work with Aymeric Dieuleveut, and Julie Josse, and [Yaniv Romano](https://sites.google.com/view/yaniv-romano/), [*Conformal Prediction with Missing Values*](https://hal.science/hal-03896384), was accepted for [ICML 2023](https://icml.cc/Conferences/2023/)!
 - The [Young Statisticians and Probabilists](https://www.sfds.asso.fr/en/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) day was held, thanks to all the speakers for the amazing talks! You can find the slides and their contact [here](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) (very soon).  
 - I was very honored to receive the [Séphora Berrebi Scholarship for Women in Advanced Mathematics](https://www.sephoraberrebi.ai/). Many thanks to the [Séphora Berrebi Association](https://www.sephoraberrebi.org/).
 - From August to October 2022, I was visiting [Yaniv Romano](https://sites.google.com/view/yaniv-romano/) and his group at the [Technion](https://www.technion.ac.il/en/home-2/). Thanks for hosting me! I also thank the [FMJH and LMH](https://www.fondation-hadamard.fr/en/fmjh-supports/research/junior-scientific-visibility/) for funding this stay abroad.
