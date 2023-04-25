@@ -46,6 +46,13 @@ Yaniv Romano's Group Meeting, Haifa, Israel
 
 ###### Outreach talks
 
+- *Rendre moins incertain l'avenir des énergies renouvelables*, April 18th, 2023.  
+[MasterClass for high school girls by the Séphora Berrebi Scholarship](https://www.sephoraberrebi.ai/), Paris, France  
+[slides](http://mzaffran.github.io/assets/files/Talks/MCL_SB_230418.pdf)  
 - *Rendre moins incertain l'avenir des énergies renouvelables*, January 5th, 2023.  
 Award ceremony of the [Séphora Berrebi Scholarship for Women in Mathematics](https://www.sephoraberrebi.ai/), Paris, France  
 [slides](http://mzaffran.github.io/assets/files/Talks/UQ_ENR_230105.pdf)  
+
+Animation of a "workshop" for a small group of high school girls, about the meaning of a statistical summary (mean/median, quantile, notion of risk, and Simpson paradox).
+
+Participation to speed meetings with high school girls.

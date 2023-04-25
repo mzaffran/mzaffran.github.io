@@ -7,6 +7,11 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
+## Tutorial
+
+[Tutorial on Conformal Prediction](https://claireboyer.github.io/tutorial-conformal-prediction/) given with [Claire Boyer](https://perso.lpsm.paris/~cboyer/) at [FEMTO-ST](https://www.femto-st.fr/en) during the [MASPIN days](https://www.femto-st.fr/fr/L-institut/evenements/2eme-edition-des-journees-maspin-mathematiques-appliquees-et-sciences-pour). The [slides](https://claireboyer.github.io/tutorial-conformal-prediction/slides_cp.pdf) are available.
+
+## Teaching assistant
 
 Teaching assistant at [ENSTA Paris](https://www.ensta-paris.fr/en) and [Université Paris Dauphine - PSL](https://dauphine.psl.eu/en/).
 

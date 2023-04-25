@@ -7,17 +7,16 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
-###### Pre-print
+
+###### Publications
 
 - *Conformal Prediction with Missing Values*
     <span style="float:right;">
         <a href="http://mzaffran.github.io/uq-na"> <i class="fas fa-fw fa-folder-open"></i>  </a>
     </span>  
 M. Zaffran, A. Dieuleveut, J. Josse, Y. Romano  
-2023  
+*ICML*, 2023  
 [hal](https://hal.science/hal-03896384)
-
-###### Publications
 
 - [*Adaptive Conformal Predictions for Time Series*](https://proceedings.mlr.press/v162/zaffran22a.html)
     <span style="float:right;">
