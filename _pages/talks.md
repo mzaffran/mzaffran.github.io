@@ -16,7 +16,7 @@ header:
 [slides](http://mzaffran.github.io/assets/files/Talks/CPNA_LPSM.pdf)
 
 - *Conformal Prediction with Missing Values*, February 9th, 2023.  
-[MIA Seminar (Agro ParisTech and INRAE)](https://www6.inrae.fr/mia-paris/Seminaires/Seminaire-MIA-Paris-Saclay), Palaiseau, France  
+[MIA Seminar (Agro ParisTech and INRAE)](https://mia-ps.inrae.fr/seminaires-miaps), Palaiseau, France  
 [slides](http://mzaffran.github.io/assets/files/Talks/CPNA_MIA.pdf)
 
 - *Adaptive Conformal Predictions for Time Series*, July 28th, 2022.  
