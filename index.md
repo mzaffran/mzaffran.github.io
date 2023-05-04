@@ -14,17 +14,19 @@ My research project is about statistical learning methods for energy management.
 
 ##### Upcoming events
 
-*April 25, 2023.* With [Claire Boyer](https://perso.lpsm.paris/~cboyer/), we will give a [course on uncertainty quantification in machine learning](https://claireboyer.github.io/tutorial-conformal-prediction/) at [FEMTO-ST](https://www.femto-st.fr/en), for the [MASPIN days](https://www.femto-st.fr/fr/L-institut/evenements/2eme-edition-des-journees-maspin-mathematiques-appliquees-et-sciences-pour). Thanks Claire for this opportunity!
+*June 20, 2023.* I will give a talk in the [MIND](https://team.inria.fr/mind/) Seminar, at INRIA Saclay. Thanks for the invitation!  
+*June 12-21, 2023* I will attend [FoCM](https://focm2023.org/) conference. Also, I will present a poster about [*Conformal Prediction with Missing Values*](http://mzaffran.github.io/uq-na) during the [Foundations of Data Science and Machine Learning workshop](https://focm2023.org/workshops/workshop-2/item/125-workshop-2-4).
 
 ##### News
 
-- Super happy that the work with Aymeric Dieuleveut, Julie Josse, and [Yaniv Romano](https://sites.google.com/view/yaniv-romano/), [*Conformal Prediction with Missing Values*](https://hal.science/hal-03896384), was accepted to [ICML 2023](https://icml.cc/Conferences/2023/)!
-- The [Young Statisticians and Probabilists](https://www.sfds.asso.fr/en/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) day was held, thanks to all the speakers for the amazing talks! You can find the slides and their contact [here](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) (very soon).  
+- Super happy that the work with Aymeric Dieuleveut, Julie Josse, and [Yaniv Romano](https://sites.google.com/view/yaniv-romano/), [*Conformal Prediction with Missing Values*](https://hal.science/hal-03896384), was accepted to [ICML 2023](https://icml.cc/Conferences/2023/)!  
+- With [Claire Boyer](https://perso.lpsm.paris/~cboyer/), we gave a [tutorial on uncertainty quantification in machine learning](https://claireboyer.github.io/tutorial-conformal-prediction/) at [FEMTO-ST](https://www.femto-st.fr/en), for the [MASPIN days](https://www.femto-st.fr/fr/L-institut/evenements/2eme-edition-des-journees-maspin-mathematiques-appliquees-et-sciences-pour). Thanks Claire for this opportunity!
 - I was very honored to receive the [Séphora Berrebi Scholarship for Women in Advanced Mathematics](https://www.sephoraberrebi.ai/). Many thanks to the [Séphora Berrebi Association](https://www.sephoraberrebi.org/).
 
 ##### Community
 
-I am the current vice-president of the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) of the French Statistical Society ([SFdS](https://www.sfds.asso.fr/)).
+I am the current vice-president of the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) of the French Statistical Society ([SFdS](https://www.sfds.asso.fr/)).  
+We have organized the 11th [Young Statisticians and Probabilists day](https://www.sfds.asso.fr/en/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/). Thanks to all the speakers for the amazing talks! You can find the slides and their contact [here](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) (very soon).
 
 Have a look at the activities of our [causal inference and missing values group](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html) at INRIA, led by Julie Josse, principal investigator of the [PreMeDICaL team](https://team.inria.fr/premedical/).
 
