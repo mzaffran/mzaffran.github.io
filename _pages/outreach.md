@@ -7,8 +7,11 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
+Animation of a "workshop" for a small group of high school girls, about the meaning of a statistical summary (mean/median, quantile, notion of risk, and Simpson paradox).
 
-###### Outreach talks
+Participation to various speed meetings with high school girls.
+
+###### Talks
 
 - *Rendre moins incertain l'avenir des énergies renouvelables*, April 18th, 2023.  
 [MasterClass for high school girls by the Séphora Berrebi Scholarship](https://www.sephoraberrebi.ai/), Paris, France  

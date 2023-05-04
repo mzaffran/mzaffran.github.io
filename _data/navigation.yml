@@ -14,6 +14,8 @@ main:
     url: /teaching/
   - title: "Bio"
     url: /bio/
+  - title: "Outreach"
+    url: /outreach/
   # - title: "Publications"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Teaching"
