@@ -29,7 +29,7 @@ My research project is about statistical learning methods for energy management.
 - [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) activities:
     - Organizing a special session on research's ethic;
     - Organizing a [scientific lunch](https://www.sfds.asso.fr//en/jeunes_statisticiens/manifestations/560-dejeuners_scientifiques/) about the path to faculty recruitment;
-    - Another scientific lunch will be held, taking the form of a discussion group on the mental health of young researchers;
+    - Another scientific lunch will be held, about the mental health of young researchers;
     - The famous quiz and young statisticians / invited speakers meeting in a bar on *Thursday evening*, save the date!
 
 ##### Community
