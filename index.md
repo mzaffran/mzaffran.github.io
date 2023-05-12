@@ -12,17 +12,25 @@ I am supervised by [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeri
 
 My research project is about statistical learning methods for energy management. In particular, I am interested in distribution-free uncertainty quantification.
 
+##### News
+
+- Super happy that the work with Aymeric Dieuleveut, Julie Josse, and [Yaniv Romano](https://sites.google.com/view/yaniv-romano/), [*Conformal Prediction with Missing Values*](https://hal.science/hal-03896384), was accepted to [ICML 2023](https://icml.cc/Conferences/2023/)!  
+- With [Claire Boyer](https://perso.lpsm.paris/~cboyer/), we gave a [tutorial on uncertainty quantification in machine learning](https://claireboyer.github.io/tutorial-conformal-prediction/) at [FEMTO-ST](https://www.femto-st.fr/en), for the [MASPIN days](https://www.femto-st.fr/fr/L-institut/evenements/2eme-edition-des-journees-maspin-mathematiques-appliquees-et-sciences-pour). Thanks Claire for this opportunity!
+- I was very honored to receive the [Séphora Berrebi Scholarship for Women in Advanced Mathematics](https://www.sephoraberrebi.ai/). Many thanks to the [Séphora Berrebi Association](https://www.sephoraberrebi.org/).
+
 ##### Upcoming events
 
 *June 12-21, 2023.* Attending [FoCM](https://focm2023.org/) conference! Also, I will present a poster about [*Conformal Prediction with Missing Values*](http://mzaffran.github.io/uq-na) at the [Foundations of Data Science and Machine Learning workshop](https://focm2023.org/workshops/workshop-2/item/125-workshop-2-4).   
 
 *June 20, 2023.* I will give a talk at the [MIND](https://team.inria.fr/mind/) Seminar, at INRIA Saclay. Thanks for the invitation!  
 
-##### News
-
-- Super happy that the work with Aymeric Dieuleveut, Julie Josse, and [Yaniv Romano](https://sites.google.com/view/yaniv-romano/), [*Conformal Prediction with Missing Values*](https://hal.science/hal-03896384), was accepted to [ICML 2023](https://icml.cc/Conferences/2023/)!  
-- With [Claire Boyer](https://perso.lpsm.paris/~cboyer/), we gave a [tutorial on uncertainty quantification in machine learning](https://claireboyer.github.io/tutorial-conformal-prediction/) at [FEMTO-ST](https://www.femto-st.fr/en), for the [MASPIN days](https://www.femto-st.fr/fr/L-institut/evenements/2eme-edition-des-journees-maspin-mathematiques-appliquees-et-sciences-pour). Thanks Claire for this opportunity!
-- I was very honored to receive the [Séphora Berrebi Scholarship for Women in Advanced Mathematics](https://www.sephoraberrebi.ai/). Many thanks to the [Séphora Berrebi Association](https://www.sephoraberrebi.org/).
+*July 3-7, 2023.* Attending [JdS](https://jds2023.sciencesconf.org/) in Brussels! Many events:
+- Invited talk during the [MALIA](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/) session, on [*Conformal Prediction with Missing Values*](http://mzaffran.github.io/uq-na). Many thanks [Stéphane](https://sites.google.com/site/stephanegchretien/home) for the invitation, looking forward to this session!!
+- [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) activities:
+    - Organizing a special session on research's ethic;
+    - Organizing a [scientific lunch](https://www.sfds.asso.fr//en/jeunes_statisticiens/manifestations/560-dejeuners_scientifiques/) about the path to faculty recruitment;
+    - Another scientific lunch will be held, taking the form of a discussion group on the mental health of young researchers;
+    - The famous quiz and young statisticians / invited speakers meeting in a bar on *Thursday evening*, save the date!
 
 ##### Community
 
