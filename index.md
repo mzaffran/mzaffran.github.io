@@ -20,6 +20,8 @@ My research project is about statistical learning methods for energy management.
 
 ##### Upcoming events
 
+*May 22, 2023.* I will give a talk at the [SDSC](https://datascience.ch/), at [EPFL](https://www.epfl.ch/en/). Many thanks for the invitation!  
+
 *June 12-21, 2023.* Attending [FoCM](https://focm2023.org/) conference! Also, I will present a poster about [*Conformal Prediction with Missing Values*](http://mzaffran.github.io/uq-na) at the [Foundations of Data Science and Machine Learning workshop](https://focm2023.org/workshops/workshop-2/item/125-workshop-2-4).   
 
 *June 20, 2023.* I will give a talk at the [MIND](https://team.inria.fr/mind/) Seminar, at INRIA Saclay. Thanks for the invitation!  
