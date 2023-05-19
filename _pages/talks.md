@@ -7,17 +7,21 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
+- *Conformal Prediction with Missing Values*, May 22th, 2023.  
+[Swiss Data Science Center (EPFL)](https://datascience.ch/), Lausanne, Switzerland  
+[slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_CIMD.pdf)
+
 - *Conformal Prediction with Missing Values*, March 6th, 2023.  
 [Causal Inference and Missing Data Seminar (INRIA)](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html), online  
-[slides](http://mzaffran.github.io/assets/files/Talks/CPNA_CIMD.pdf)
+[slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_CIMD.pdf)
 
 - *Conformal Prediction with Missing Values*, February 20th, 2023.  
 [LPSM PhD Students Seminar](https://www.lpsm.paris/en/seminaires/gtt/index), Paris, France  
-[slides](http://mzaffran.github.io/assets/files/Talks/CPNA_LPSM.pdf)
+[slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_LPSM.pdf)
 
 - *Conformal Prediction with Missing Values*, February 9th, 2023.  
 [MIA Seminar (Agro ParisTech and INRAE)](https://mia-ps.inrae.fr/seminaires-miaps), Palaiseau, France  
-[slides](http://mzaffran.github.io/assets/files/Talks/CPNA_MIA.pdf)
+[slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_MIA.pdf)
 
 - *Adaptive Conformal Predictions for Time Series*, July 28th, 2022.  
 Yaniv Romano's Group Meeting, Haifa, Israel  
