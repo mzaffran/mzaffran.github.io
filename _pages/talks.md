@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
-- *Conformal Prediction with Missing Values*, May 22th, 2023.  
+- *Conformal Prediction with Missing Values*, May 22nd, 2023.  
 [Swiss Data Science Center (EPFL)](https://datascience.ch/), Lausanne, Switzerland  
 [slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_CIMD.pdf)
 
