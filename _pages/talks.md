@@ -9,7 +9,7 @@ header:
 
 - *Conformal Prediction with Missing Values*, May 22nd, 2023.  
 [Swiss Data Science Center (EPFL)](https://datascience.ch/), Lausanne, Switzerland  
-[slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_CIMD.pdf)
+[slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_SDSC.pdf)
 
 - *Conformal Prediction with Missing Values*, March 6th, 2023.  
 [Causal Inference and Missing Data Seminar (INRIA)](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html), online  
