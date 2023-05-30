@@ -11,4 +11,4 @@ This project is conducted in collaboration with Aymeric Dieuleveut, Julie Josse 
 
 - [Pre-print on hal](https://hal.science/hal-03896384) (accepted for presentation at ICML 2023)
 - [StatLearn poster](http://mzaffran.github.io/assets/files/Posters/cp_na_statlearn_poster.pdf)
-- GitHub repository &rarr; to come soon (in preparation)
+- [GitHub repository](https://github.com/mzaffran/ConformalPredictionMissingValues) _(still under improvements)_
