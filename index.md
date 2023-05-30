@@ -34,7 +34,7 @@ My research project is about statistical learning methods for energy management.
     - Another scientific lunch will be held, about the mental health of young researchers;
     - The famous quiz and young statisticians / invited speakers meeting in a bar on *Thursday evening*, save the date!
 
-*September 10, 2023* I will give a [half-day tutorial on Conformal Prediction](https://conferences.enbis.org/event/41/) as part of the [ENBIS Annual Conference](https://conferences.enbis.org/event/32/overview) in Valencia. Many thanks for the invitation! 
+*September 10, 2023.* I will give a [half-day tutorial on Conformal Prediction](https://conferences.enbis.org/event/41/) as part of the [ENBIS Annual Conference](https://conferences.enbis.org/event/32/overview) in Valencia. Many thanks for the invitation! 
 
 ##### Community
 
