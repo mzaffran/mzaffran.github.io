@@ -16,7 +16,7 @@ header:
     </span>  
 M. Zaffran, A. Dieuleveut, J. Josse, Y. Romano  
 *ICML*, 2023  
-[ArXiv](https://arxiv.org/abs/2306.02732)
+[arXiv](https://arxiv.org/abs/2306.02732)
 
 - [*Adaptive Conformal Predictions for Time Series*](https://proceedings.mlr.press/v162/zaffran22a.html)
     <span style="float:right;">
