@@ -15,16 +15,14 @@ My research project is about statistical learning methods for energy management.
 ##### News
 
 - Super happy that the work with Aymeric Dieuleveut, Julie Josse, and [Yaniv Romano](https://sites.google.com/view/yaniv-romano/), [*Conformal Prediction with Missing Values*](https://hal.science/hal-03896384), was accepted to [ICML 2023](https://icml.cc/Conferences/2023/)!  
-- With [Claire Boyer](https://perso.lpsm.paris/~cboyer/), we gave a [tutorial on uncertainty quantification in machine learning](https://claireboyer.github.io/tutorial-conformal-prediction/) at [FEMTO-ST](https://www.femto-st.fr/en), for the [MASPIN days](https://www.femto-st.fr/fr/L-institut/evenements/2eme-edition-des-journees-maspin-mathematiques-appliquees-et-sciences-pour). 
+- With [Claire Boyer](https://perso.lpsm.paris/~cboyer/), we gave a [tutorial on uncertainty quantification in machine learning](https://claireboyer.github.io/tutorial-conformal-prediction/) at [FEMTO-ST](https://www.femto-st.fr/en), for the [MASPIN days](https://www.femto-st.fr/fr/L-institut/evenements/2eme-edition-des-journees-maspin-mathematiques-appliquees-et-sciences-pour).
 - I was very honored to receive the [Séphora Berrebi Scholarship for Women in Advanced Mathematics](https://www.sephoraberrebi.ai/). Many thanks to the [Séphora Berrebi Association](https://www.sephoraberrebi.org/).
 
 ##### Upcoming events
 
-*May 22, 2023.* I will give a talk at the [Swiss Data Science Center](https://datascience.ch/), at [EPFL](https://www.epfl.ch/en/), on [*Conformal Prediction with Missing Values*](http://mzaffran.github.io/uq-na). Many thanks! [Slides available](http://mzaffran.github.io/assets/files/Talks/CP_NA_SDSC.pdf).  
+*June 13, 2023.* I will give a talk at the joint [MIND](https://team.inria.fr/mind/) & [SODA](https://team.inria.fr/soda/) Seminar, at INRIA Saclay. Thanks for the invitation!  
 
-*June 12-21, 2023.* Attending [FoCM](https://focm2023.org/) conference! Also, I will present a poster about [*Conformal Prediction with Missing Values*](http://mzaffran.github.io/uq-na) at the [Foundations of Data Science and Machine Learning workshop](https://focm2023.org/workshops/workshop-2/item/125-workshop-2-4).   
-
-*June 20, 2023.* I will give a talk at the [MIND](https://team.inria.fr/mind/) Seminar, at INRIA Saclay. Thanks for the invitation!  
+*June 12-21, 2023.* Attending [FoCM](https://focm2023.org/) conference! Also, I will present a poster about [*Conformal Prediction with Missing Values*](http://mzaffran.github.io/uq-na) at the [Foundations of Data Science and Machine Learning workshop](https://focm2023.org/workshops/workshop-2/item/125-workshop-2-4).    
 
 *July 3-7, 2023.* Attending [JdS](https://jds2023.sciencesconf.org/) in Brussels! Many events:
 - Invited talk during the [MALIA](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/) session, on [*Conformal Prediction with Missing Values*](http://mzaffran.github.io/uq-na). Many thanks [Stéphane](https://sites.google.com/site/stephanegchretien/home) for the invitation, looking forward to this session!!
