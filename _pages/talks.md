@@ -7,6 +7,10 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
+- *Conformal Prediction with Missing Values*, June 13th, 2023.  
+[MIND](https://team.inria.fr/mind/) & [SODA](https://team.inria.fr/soda/) Seminar (INRIA), Palaiseau, France  
+[slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_MIND_SODA.pdf)
+
 - *Conformal Prediction with Missing Values*, May 22nd, 2023.  
 [Swiss Data Science Center (EPFL)](https://datascience.ch/), Lausanne, Switzerland  
 [slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_SDSC.pdf)
