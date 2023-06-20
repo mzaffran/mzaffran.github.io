@@ -20,10 +20,6 @@ My research project is about statistical learning methods for energy management.
 
 ##### Upcoming events
 
-*June 13, 2023.* I will give a talk at the joint [MIND](https://team.inria.fr/mind/) & [SODA](https://team.inria.fr/soda/) Seminar, at INRIA Saclay. Thanks for the invitation! [Slides available](http://mzaffran.github.io/assets/files/Talks/CP_NA_MIND_SODA.pdf).    
-
-*June 12-21, 2023.* Attending [FoCM](https://focm2023.org/) conference! Also, I will present a poster about [*Conformal Prediction with Missing Values*](http://mzaffran.github.io/uq-na) at the [Foundations of Data Science and Machine Learning workshop](https://focm2023.org/workshops/workshop-2/item/125-workshop-2-4).    
-
 *July 3-7, 2023.* Attending [JdS](https://jds2023.sciencesconf.org/) in Brussels! Many events:
 - Invited talk during the [MALIA](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/) session, on [*Conformal Prediction with Missing Values*](http://mzaffran.github.io/uq-na). Many thanks [Stéphane](https://sites.google.com/site/stephanegchretien/home) for the invitation, looking forward to this session!!
 - [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) activities:
