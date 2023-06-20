@@ -8,7 +8,7 @@ header:
 ---
 
 - *Conformal Prediction with Missing Values*, June 15th to 17th, 2023.  
-Data Science and Machine Learning workshop at [FoCM](https://focm2023.org/), Paris, France  
+[Data Science and Machine Learning workshop](https://focm2023.org/workshops/workshop-2/item/125-workshop-2-4) at [FoCM](https://focm2023.org/), Paris, France  
 [poster](http://mzaffran.github.io/assets/files/Posters/cp_na_statlearn_poster.pdf)
 
 - *Conformal Prediction with Missing Values*, April 6th, 2023.  
