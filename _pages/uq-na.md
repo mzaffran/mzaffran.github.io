@@ -9,7 +9,8 @@ header:
 
 This project is conducted in collaboration with Aymeric Dieuleveut, Julie Josse and Yaniv Romano.
 
-- [ArXiv](https://arxiv.org/abs/2306.02732), [hal](https://hal.science/hal-03896384) (accepted for presentation at ICML 2023)
+- [Paper](https://proceedings.mlr.press/v202/zaffran23a.html)
+- [ArXiv](https://arxiv.org/abs/2306.02732), [hal](https://hal.science/hal-03896384)
 - [Short summary](http://mzaffran.github.io/assets/files/Posters/cp_na_summary.pdf)
 - [StatLearn and FoCM poster](http://mzaffran.github.io/assets/files/Posters/cp_na_statlearn_poster.pdf)
 - [GitHub repository](https://github.com/mzaffran/ConformalPredictionMissingValues) _(still under improvements)_

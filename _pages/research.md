@@ -10,7 +10,7 @@ header:
 
 ###### Publications
 
-- *Conformal Prediction with Missing Values*
+- [*Conformal Prediction with Missing Values*](https://proceedings.mlr.press/v202/zaffran23a.html)
     <span style="float:right;">
         <a href="http://mzaffran.github.io/uq-na"> <i class="fas fa-fw fa-folder-open"></i>  </a>
     </span>  
