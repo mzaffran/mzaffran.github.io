@@ -8,7 +8,7 @@ header:
 ---
 
 - *Conformal Prediction with Missing Values*, July 5th, 2023.  
-[Journées de Statistiques 2023](https://jds23.sciencesconf.org/), [MALIA](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/) session, Brussels, Belgium  
+[Journées de Statistiques 2023](https://jds2023.sciencesconf.org/), [MALIA](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/) session, Brussels, Belgium  
 [slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_JdS.pdf)
 
 - *Conformal Prediction with Missing Values*, June 13th, 2023.  
