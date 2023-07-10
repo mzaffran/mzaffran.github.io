@@ -53,3 +53,10 @@ Yaniv Romano's Group Meeting, Haifa, Israel
 - *Une nouvelle dissimilarité pour le partitionnement spatial de pluies extrêmes, non-paramétrique et liant théorie des valeurs extrêmes bivariée et marginales*), June 8th, 2021.  
 [Journées de Statistiques 2021](https://jds2021.sciencesconf.org/), online  
 [slides](http://mzaffran.github.io/assets/files/Talks/JdS_210608.pdf)
+
+<p align="center">
+    <img src="http://mzaffran.github.io/assets/images/talk.jpg" alt="JdS 2023 MALIA session" width="400"/>  
+</p>   
+<p align="center">     
+    <em>Thanks <a href="https://mariechion.github.io/">Marie</a> for the picture!</em>
+</p>

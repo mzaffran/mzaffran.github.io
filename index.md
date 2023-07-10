@@ -20,15 +20,9 @@ My research project is about statistical learning methods for energy management.
 
 ##### Upcoming events
 
-*July 3-7, 2023.* Attending [JdS](https://jds2023.sciencesconf.org/) in Brussels! Many events:
-- Invited talk during the [MALIA](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/) session, on [*Conformal Prediction with Missing Values*](http://mzaffran.github.io/uq-na). Many thanks [Stéphane](https://sites.google.com/site/stephanegchretien/home) for the invitation, looking forward to this session!!
-- [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) activities:
-    - Organizing a special session on research's ethic;
-    - Organizing a [scientific lunch](https://www.sfds.asso.fr//en/jeunes_statisticiens/manifestations/560-dejeuners_scientifiques/) about the path to faculty recruitment;
-    - Another scientific lunch will be held, about the mental health of young researchers;
-    - The famous quiz and young statisticians / invited speakers meeting in a bar on *Thursday evening*, save the date!
-
 *September 10, 2023.* I will give a [half-day tutorial on Conformal Prediction](https://conferences.enbis.org/event/41/) as part of the [ENBIS Annual Conference](https://conferences.enbis.org/event/32/overview) in Valencia. Many thanks for the invitation!
+
+*October 24, 2023.* I will give a talk at the [Statistics and Optimization Seminar of IMT](https://indico.math.cnrs.fr/category/474/) in Toulouse. Many thanks for the invitation!
 
 ##### Community
 
