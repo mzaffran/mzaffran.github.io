@@ -19,7 +19,7 @@ This project is conducted in collaboration with Aymeric Dieuleveut, Julie Josse 
 The paper will be presented at [ICML 2023 main conference](https://icml.cc/), on Wednesday 26th of July (#531, poster session 4)! Feel free to reach out :)
 
 <p align="center">
-    <img src="http://mzaffran.github.io/assets/images/cartoon_na_theo.png" alt="Nice cartoon by Théo Remlinger" width="300"/>  
+    <img src="http://mzaffran.github.io/assets/images/cartoon_na_theo.png" alt="Nice cartoon by Théo Remlinger" width="350"/>  
 </p>   
 <p align="center">     
     <em>Cartoon made by Théo Remlinger @theo.remlinger</em>
