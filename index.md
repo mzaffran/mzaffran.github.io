@@ -25,7 +25,7 @@ My research project is about statistical learning methods for energy management.
 
 ##### Community
 
-I am the current vice-president of the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) of the French Statistical Society ([SFdS](https://www.sfds.asso.fr/)).  
+I am the current president of the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) of the French Statistical Society ([SFdS](https://www.sfds.asso.fr/)).  
 We have organized the 11th [Young Statisticians and Probabilists day](https://www.sfds.asso.fr/en/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/). Thanks to all the speakers for the amazing talks! You can find the slides and their contact [here](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) (very soon).
 
 Have a look at the activities of our [causal inference and missing values group](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html) at INRIA, led by Julie Josse, principal investigator of the [PreMeDICaL team](https://team.inria.fr/premedical/).
