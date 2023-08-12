@@ -24,7 +24,7 @@ header:
 [poster](http://mzaffran.github.io/assets/files/Posters/uq_na_icsds_poster.pdf)
 
 - *Adaptive Conformal Predictions for Time Series*, July 23th, 2022.  
-[Distribution-Free Uncertainty Quantification, ICML workshop](https://sites.google.com/berkeley.edu/dfuq-22/home), Baltimore, USA  
+[Distribution-Free Uncertainty Quantification, ICML workshop](https://sites.google.com/berkeley.edu/dfuq-22/home), Baltimore, United States  
 [poster](http://mzaffran.github.io/assets/files/Posters/acp_ts_dfuq_poster.pdf)
 
 - *Adaptive Conformal Predictions for Time Series*, July 21th, 2022.  

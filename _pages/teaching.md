@@ -20,7 +20,7 @@ Teaching assistant at [ENSTA Paris](https://www.ensta-paris.fr/en) and [Universi
 ***
 #### Dauphine
 
-###### Business Cases, 2022 -
+###### Business Cases, 2022 and 2023
 *[M2 Digital Economics](https://dauphine.psl.eu/en/training/masters-degrees/quantitative-economics/m2-digital-economics)*
 
 - [Jupyter notebook without answers](http://mzaffran.github.io/assets/files/Dauphine/EPF_Dauphine_2023.zip)
@@ -31,10 +31,10 @@ Teaching assistant at [ENSTA Paris](https://www.ensta-paris.fr/en) and [Universi
 ***
 #### ENSTA Paris
 
-###### Introduction to probability, 2021 -
+###### Introduction to probability, 2021, 2022 and 2023
 *1st year (equiv. L3)*
 
-###### Introduction to statistics, 2021 -
+###### Introduction to statistics, 2021, 2022 and 2023
 *1st year (equiv. L3)*
 
 ###### Time series (STA202), 2021 and 2022
