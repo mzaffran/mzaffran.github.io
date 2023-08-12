@@ -8,7 +8,7 @@ header:
 ---
 
 - *Conformal Prediction with Missing Values*, July 26th, 2023.  
-[ICML](https://icml.cc/Conferences/2023), Honolulu, United States
+[ICML](https://icml.cc/Conferences/2023), Honolulu, United States  
 [poster](http://mzaffran.github.io/assets/files/Posters/cp_na_icml_poster.pdf)
 
 - *Conformal Prediction with Missing Values*, June 15th to 17th, 2023.  
@@ -28,7 +28,7 @@ header:
 [poster](http://mzaffran.github.io/assets/files/Posters/acp_ts_dfuq_poster.pdf)
 
 - *Adaptive Conformal Predictions for Time Series*, July 21th, 2022.  
-[ICML](https://icml.cc/Conferences/2022), Baltimore, United States
+[ICML](https://icml.cc/Conferences/2022), Baltimore, United States  
 [poster](http://mzaffran.github.io/assets/files/Posters/acp_ts_icml_poster.pdf)
 
 - *Electricity Price Forecasting*, September 22th, 2021.  
