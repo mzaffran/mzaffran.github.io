@@ -7,6 +7,10 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
+- *Conformal Prediction with Missing Values*, July 26th, 2023.  
+[ICML](https://icml.cc/Conferences/2023), Honolulu, United States
+[poster](http://mzaffran.github.io/assets/files/Posters/cp_na_icml_poster.pdf)
+
 - *Conformal Prediction with Missing Values*, June 15th to 17th, 2023.  
 [Data Science and Machine Learning workshop](https://focm2023.org/workshops/workshop-2/item/125-workshop-2-4) at [FoCM](https://focm2023.org/), Paris, France  
 [poster](http://mzaffran.github.io/assets/files/Posters/cp_na_statlearn_poster.pdf)
@@ -24,7 +28,7 @@ header:
 [poster](http://mzaffran.github.io/assets/files/Posters/acp_ts_dfuq_poster.pdf)
 
 - *Adaptive Conformal Predictions for Time Series*, July 21th, 2022.  
-[ICML](https://icml.cc/Conferences/2022), Baltimore, USA  
+[ICML](https://icml.cc/Conferences/2022), Baltimore, United States
 [poster](http://mzaffran.github.io/assets/files/Posters/acp_ts_icml_poster.pdf)
 
 - *Electricity Price Forecasting*, September 22th, 2021.  

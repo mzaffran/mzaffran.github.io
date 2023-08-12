@@ -14,4 +14,4 @@ During my studies, I did a 6-month research internship under the supervision of 
 
 Before that, I also did a 3-month research internship at the [University of Bristol](https://www.bristol.ac.uk/maths/), on non-parametric additive quantile regression. More specifically, it was about the statistical and computational advantages of smoothing the pinball loss. I was supervised by [Matteo Fasiolo](https://mfasiolo.github.io/).
 
-For more details, see my [resume](http://mzaffran.github.io/assets/files/CV_Zaffran_2023_05.pdf).
+For more details, see my [resume](http://mzaffran.github.io/assets/files/CV_Zaffran_2023_08.pdf).
