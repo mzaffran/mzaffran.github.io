@@ -7,9 +7,13 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
+- *Conformal Prediction with Missing Values*, August 17th, 2023.  
+Emmanuel Candès' group meeting, Stanford, United States  
+[slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_EC.pdf)
+
 - *Conformal Prediction with Missing Values*, August 10th, 2023.  
 Madeleine Udell's group meeting, Stanford, United States  
-[slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_MadeleineUdell.pdf)
+[slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_MU.pdf)
 
 - *Conformal Prediction with Missing Values*, July 5th, 2023.  
 [Journées de Statistiques 2023](https://jds2023.sciencesconf.org/), [MALIA](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/) session, Brussels, Belgium  
