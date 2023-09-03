@@ -21,6 +21,8 @@ My research project is about statistical learning methods for energy management.
 
 *September 10, 2023.* I will give a [half-day tutorial on Conformal Prediction](https://conferences.enbis.org/event/41/) as part of the [ENBIS Annual Conference](https://conferences.enbis.org/event/32/overview) in Valencia. Many thanks for the invitation!
 
+*September 18-22, 2023.* Attending [StatMathAppli Summer School](https://statmathappli.mathnum.inrae.fr/), where I will also give a contributed talk.
+
 *October 24, 2023.* I will give a talk at the [Statistics and Optimization Seminar of IMT](https://indico.math.cnrs.fr/category/474/) in Toulouse. Many thanks for the invitation!
 
 ##### Community
