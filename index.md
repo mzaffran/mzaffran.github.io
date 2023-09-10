@@ -19,7 +19,7 @@ My research project is about statistical learning methods for energy management.
 
 ##### Upcoming events
 
-*September 10, 2023.* I will give a [half-day tutorial on Conformal Prediction](https://conferences.enbis.org/event/41/) as part of the [ENBIS Annual Conference](https://conferences.enbis.org/event/32/overview) in Valencia. Many thanks for the invitation!
+*September 10, 2023.* I will give a [half-day tutorial on Conformal Prediction](https://conferences.enbis.org/event/41/) as part of the [ENBIS Annual Conference](https://conferences.enbis.org/event/32/overview) in Valencia. Many thanks for the invitation! [Slides available.](http://mzaffran.github.io/assets/files/Talks/Tuto_CP_ENBIS_ECAS.pdf)
 
 *September 18-22, 2023.* Attending [StatMathAppli Summer School](https://statmathappli.mathnum.inrae.fr/), where I will also give a contributed talk.
 
