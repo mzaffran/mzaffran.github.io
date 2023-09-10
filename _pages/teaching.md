@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
-# Tutorial
+# Research tutorials
 
 [ECAS-ENBIS Course: Conformal Prediction: How to quantify uncertainty of machine learning models?](https://conferences.enbis.org/event/41/) will take place in the Nexus Building (6G in this [map](https://www.upv.es/plano/plano-2d-en.html)), room 2.11, on Sunday 10th of September at 2pm. Entrance to UPV on that day is 'M'.  
-Slides will be available very soon, before the tutorial!
+[Slides available!](http://mzaffran.github.io/assets/files/Talks/Tuto_CP_ENBIS_ECAS.pdf)
 
 [Tutorial on Conformal Prediction](https://claireboyer.github.io/tutorial-conformal-prediction/) given with [Claire Boyer](https://perso.lpsm.paris/~cboyer/) at [FEMTO-ST](https://www.femto-st.fr/en) during the [MASPIN days](https://www.femto-st.fr/fr/L-institut/evenements/2eme-edition-des-journees-maspin-mathematiques-appliquees-et-sciences-pour). The [slides](https://claireboyer.github.io/tutorial-conformal-prediction/slides_cp.pdf) are available.
 
