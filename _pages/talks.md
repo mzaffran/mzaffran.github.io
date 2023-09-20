@@ -7,6 +7,10 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
+- *Conformal Prediction with Missing Values*, September 19th, 2023.  
+[StatMathAppli 2023](https://statmathappli.mathnum.inrae.fr/), Fréjus, France  
+[slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_StatMathAppli.pdf)
+
 - *Conformal Prediction with Missing Values*, August 17th, 2023.  
 Emmanuel Candès' group meeting, Stanford, United States  
 [slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_EC.pdf)
