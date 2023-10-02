@@ -14,7 +14,7 @@ My research project is about statistical learning methods for energy management.
 
 ##### News
 
-- Releasing an [introductive tutorial (slides) on Conformal Prediction](https://conformalpredictionintro.github.io/)! Going from the standard split mean-regression case towards beyond exchangeability, passing by conditional coverage, classification, and no (other) splitting strategies.
+- Just released an [introductive tutorial (slides) on Conformal Prediction](https://conformalpredictionintro.github.io/)! Going from the standard split mean-regression case towards beyond exchangeability, passing by conditional coverage, classification, and no (other) splitting strategies.
 - Super happy that the work with Aymeric Dieuleveut, Julie Josse, and [Yaniv Romano](https://sites.google.com/view/yaniv-romano/), [*Conformal Prediction with Missing Values*](https://arxiv.org/abs/2306.02732), was accepted to [ICML 2023](https://icml.cc/Conferences/2023/)!  
 - I was very honored to receive the [Séphora Berrebi Scholarship for Women in Advanced Mathematics](https://www.sephoraberrebi.ai/). Many thanks to the [Séphora Berrebi Association](https://www.sephoraberrebi.org/).
 
