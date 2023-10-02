@@ -9,7 +9,7 @@ header:
 
 # Research tutorials
 
-The slides of an introductive tutorial on Conformal Prediction can be found [here]((https://conformalpredictionintro.github.io/)!
+The slides of an introductive tutorial on Conformal Prediction can be found [here](https://conformalpredictionintro.github.io/)!
 
 [ECAS-ENBIS Course: Conformal Prediction: How to quantify uncertainty of machine learning models?](https://conferences.enbis.org/event/41/) will take place in the Nexus Building (6G in this [map](https://www.upv.es/plano/plano-2d-en.html)), room 2.14, on Sunday 10th of September at 2pm. Entrance to UPV on that day is 'M'.  
 [Slides available!](http://mzaffran.github.io/assets/files/Talks/Tuto_CP_ENBIS_ECAS.pdf)
