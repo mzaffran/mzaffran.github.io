@@ -7,6 +7,19 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
+
+- *Conformal Prediction with Missing Values*, October 24th, 2023.  
+[IRT Saint-Exupéry](https://www.irt-saintexupery.com/) conformal inference reading group, Toulouse, France  
+[slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_IRT.pdf)
+
+- *Conformal Prediction with Missing Values*, October 24th, 2023.  
+[Statistics and Optimization seminar, IMT](https://www.math.univ-toulouse.fr/en/recherche/teams/statistiques-et-optimisation/), Toulouse, France  
+[slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_StatOptimIMT.pdf)
+
+- *Conformal Prediction with Missing Values*, October 19th, 2023.  
+FAST-BIG Stats Workshop, Paris, France  
+[slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_FASTBIG.pdf)
+
 - *Conformal Prediction with Missing Values*, September 19th, 2023.  
 [StatMathAppli 2023](https://statmathappli.mathnum.inrae.fr/), Fréjus, France  
 [slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_StatMathAppli.pdf)
