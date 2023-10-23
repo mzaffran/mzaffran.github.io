@@ -9,10 +9,6 @@ header:
 
 
 - *Conformal Prediction with Missing Values*, October 24th, 2023.  
-[IRT Saint-Exupéry](https://www.irt-saintexupery.com/), conformal inference reading group, Toulouse, France  
-[slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_IRT.pdf)
-
-- *Conformal Prediction with Missing Values*, October 24th, 2023.  
 [Statistics and Optimization seminar, IMT](https://www.math.univ-toulouse.fr/en/recherche/teams/statistiques-et-optimisation/), Toulouse, France  
 [slides](http://mzaffran.github.io/assets/files/Talks/CP_NA_StatOptimIMT.pdf)
 
