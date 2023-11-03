@@ -20,11 +20,10 @@ My research project is about statistical learning methods for energy management.
 
 ##### Upcoming events
 
-*September 10, 2023.* I will give a [half-day tutorial on Conformal Prediction](https://conferences.enbis.org/event/41/) as part of the [ENBIS Annual Conference](https://conferences.enbis.org/event/32/overview) in Valencia. Many thanks for the invitation! [Slides available.](http://mzaffran.github.io/assets/files/Talks/Tuto_CP_ENBIS_ECAS.pdf)
+*December 11, 2023.* I will give a talk at the seminar [Machine Learning in Montpellier, Theory & Practice](https://groupes.renater.fr/wiki/ml-mtp/index?). Many thanks for the invitation!
 
-*September 18-22, 2023.* Attending [StatMathAppli Summer School](https://statmathappli.mathnum.inrae.fr/), where I will also give a contributed talk.
+*January 18, 2024.* I will give a talk during the [Statistique Mathématique](https://www.sfds.asso.fr/fr/statistique_mathematique/465-statistique_mathematique/) day, in Paris. Many thanks for the invitation!
 
-*October 24, 2023.* I will give a talk at the [Statistics and Optimization Seminar of IMT](https://indico.math.cnrs.fr/category/474/) in Toulouse. Many thanks for the invitation!
 
 ##### Community
 
