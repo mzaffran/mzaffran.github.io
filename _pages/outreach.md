@@ -13,6 +13,9 @@ Participation to various speed meetings with high school girls.
 
 ###### Talks
 
+- *Rendre moins incertain l'avenir des énergies renouvelables*, November 6th, 2023.  
+[Lycée Marseilleveyre](https://www.site.ac-aix-marseille.fr/lyc-marseilleveyre/spip/L-excellence-au-lycee-Marseilleveyre.html), Marseille, France  
+[slides](http://mzaffran.github.io/assets/files/Talks/Marseilleveyre.pdf)  
 - *Rendre moins incertain l'avenir des énergies renouvelables*, April 18th, 2023.  
 [MasterClass for high school girls by the Séphora Berrebi Scholarship](https://www.sephoraberrebi.ai/), Paris, France  
 [slides](http://mzaffran.github.io/assets/files/Talks/MCL_SB_230418.pdf)  
