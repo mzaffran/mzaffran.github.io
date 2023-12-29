@@ -10,7 +10,7 @@ I am a third year PhD student at [INRIA](https://www.inria.fr/en), at [CMAP](htt
 
 I am supervised by [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) from CMAP, Ecole Polytechnique, by [Julie Josse](http://juliejosse.com/), from INRIA, and by [Olivier Féron](https://www.fime-lab.org/en/feron-olivier/) (director of the [FiME laboratory](https://www.fime-lab.org/en/home/)) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) from EDF.
 
-My research project is about statistical learning methods for energy management. In particular, I am interested in distribution-free uncertainty quantification.
+My research project is on statistical learning methods for energy management. I am interested in **uncertainty quantification**, especially with *distribution-free finite-sample guarantees in a post-hoc setting*. More specifically, in the context of *time series* or *missing features*.
 
 ##### News
 
@@ -30,7 +30,9 @@ My research project is about statistical learning methods for energy management.
 I am the current president of the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) of the French Statistical Society ([SFdS](https://www.sfds.asso.fr/)).  
 We have organized the 11th [Young Statisticians and Probabilists day](https://www.sfds.asso.fr/en/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/). Thanks to all the speakers for the amazing talks! You can find the slides and their contact [here](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) (very soon).
 
-Have a look at the activities of our [causal inference and missing values group](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html) at INRIA, led by Julie Josse, principal investigator of the [PreMeDICaL team](https://team.inria.fr/premedical/).
+Go give a glance at the research and activities of [Aymeric Dieuleveut's team](https://adieuleveutteam.github.io/), based at Ecole polytechnique. 
+
+Have also a look at the activities of our [causal inference and missing values group](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html) at INRIA, led by Julie Josse, principal investigator of the [PreMeDICaL team](https://team.inria.fr/premedical/).
 
 I served as a reviewer for [AISTATS 2023](https://www.google.com/search?client=firefox-b-d&q=aistats+2023) ([10% top reviewer](http://aistats.org/aistats2023/reviewers.html)) and for the [Journal of Business and Economics Statistics](https://www.tandfonline.com/journals/ubes20).
 
