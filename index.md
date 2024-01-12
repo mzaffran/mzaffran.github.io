@@ -22,7 +22,7 @@ My research project is on statistical learning methods for energy management. I 
 
 *January 17, 2024.* The [12th edition](https://www.sfds.asso.fr/sdoc-12022-2c6ccf107c821bb573c95de6e849f5e4-ysp_2024.pdf) of the [Young Statisticians and Probabilists day](https://www.sfds.asso.fr/en/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) will be held in Paris (Institut Henri Poincaré). [Registrations](https://framaforms.org/inscription-a-ysp12-registration-to-ysp12-1700153039) are now opened!
 
-*January 18, 2024.* I will give a talk during the [Statistique Mathématique](https://www.sfds.asso.fr/fr/statistique_mathematique/465-statistique_mathematique/) day, in Paris. Many thanks for the invitation!
+*January 18, 2024.* I will give a talk during the [Statistique Mathématique day](https://statmath2024.sciencesconf.org/), in Paris. Many thanks for the invitation!
 
 
 ##### Community
