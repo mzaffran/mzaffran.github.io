@@ -7,6 +7,9 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
+- *Adaptive Conformal Predictions for Time Series*, January 18th, 2024.  
+[Statistique Mathématique day](https://statmath2024.sciencesconf.org/), Paris, France  
+[slides](http://mzaffran.github.io/assets/files/Talks/ACP_TS_SM.pdf)
 
 - *Conformal Prediction with Missing Values*, October 24th, 2023.  
 [Statistics and Optimization seminar, IMT](https://www.math.univ-toulouse.fr/en/recherche/teams/statistiques-et-optimisation/), Toulouse, France  
