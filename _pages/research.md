@@ -7,6 +7,16 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
+###### Pre-prints
+
+- *Predictive Uncertainty Quantification with Missing Covariates*  
+M. Zaffran, J. Josse, Y. Romano, A. Dieuleveut  
+2024
+
+- *Adaptive probabilistic forecasting of French electricity spot prices*  
+G. Dutot<sup>\*</sup>, M. Zaffran<sup>\*</sup>, O. Féron, Y. Goude  
+2024  
+[hal](https://hal.science/hal-04586509) 
 
 ###### Publications
 
