@@ -11,12 +11,13 @@ header:
 
 - *Predictive Uncertainty Quantification with Missing Covariates*  
 M. Zaffran, J. Josse, Y. Romano, A. Dieuleveut  
-2024
+2024  
+[arXiv](https://arxiv.org/abs/2405.15641), [hal](https://hal.science/hal-04587674)
 
 - *Adaptive probabilistic forecasting of French electricity spot prices*  
 G. Dutot<sup>\*</sup>, M. Zaffran<sup>\*</sup>, O. Féron, Y. Goude  
 2024  
-[hal](https://hal.science/hal-04586509) 
+[arXiv](https://arxiv.org/abs/2405.15359), [hal](https://hal.science/hal-04586509)
 
 ###### Publications
 

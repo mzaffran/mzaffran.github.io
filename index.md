@@ -14,9 +14,9 @@ My research project is on statistical learning methods for energy management. I 
 
 ##### News
 
-- Really honored that our tutorial's proposition, *Distribution-Free Predictive Uncertainty Quantification: Strengths and Limits of Conformal Prediction*, with Aymeric Dieulveut was accepted at UAI and ICML! Pick your favorite European destination for the summer and see you there :D
+- Really enthusiastic that our tutorial's proposition, *Distribution-Free Predictive Uncertainty Quantification: Strengths and Limits of Conformal Prediction*, with Aymeric Dieulveut, was accepted at UAI and ICML! Pick your favorite European destination for the summer and see you there :D
 - Super excited to announce that I have been named one of the [Fondation L’Oréal-UNESCO 2023 French Young Talents](https://www.fondationloreal.com/sites/default/files/2023-10/dpfrance_fwis2023-web.pdf), along with 34 amazing French women scientists at the doctoral or post-doctoral level!
-- Just released an [introductive tutorial (slides) on Conformal Prediction](https://conformalpredictionintro.github.io/)! Going from the standard split mean-regression case towards beyond exchangeability, passing by conditional coverage, classification, and no (other) splitting strategies. 
+- Just released an [introductive tutorial (slides) on Conformal Prediction](https://conformalpredictionintro.github.io/)! Going from the standard split mean-regression case towards beyond exchangeability, passing by conditional coverage, classification, and no (other) splitting strategies.
 
 ##### Upcoming events
 
@@ -24,7 +24,7 @@ My research project is on statistical learning methods for energy management. I 
 
 *July 15, 2024.* Giving a tutorial on conformal prediction with Aymeric Dieuleveut at [UAI2024](https://www.auai.org/uai2024/) in Barcelona!  
 
-*July 22, 2024.* Giving a tutorial on conformal prediction with Aymeric Dieuleveut at [ICML2024](https://icml.cc/virtual/2024/calendar) in Vienna! 
+*July 22, 2024.* Giving a tutorial on conformal prediction with Aymeric Dieuleveut at [ICML2024](https://icml.cc/virtual/2024/calendar) in Vienna!
 
 
 ##### Community
@@ -40,7 +40,7 @@ I served as a conference reviewer for [AISTATS 2023](https://www.google.com/sear
 
 ##### News archive
 
-- Super happy that the work with Aymeric Dieuleveut, Julie Josse, and [Yaniv Romano](https://sites.google.com/view/yaniv-romano/), [*Conformal Prediction with Missing Values*](https://arxiv.org/abs/2306.02732), was accepted to [ICML 2023](https://icml.cc/Conferences/2023/)! 
+- Super happy that the work with Aymeric Dieuleveut, Julie Josse, and [Yaniv Romano](https://sites.google.com/view/yaniv-romano/), [*Conformal Prediction with Missing Values*](https://arxiv.org/abs/2306.02732), was accepted to [ICML 2023](https://icml.cc/Conferences/2023/)!
 - I was very honored to receive the [Séphora Berrebi Scholarship for Women in Advanced Mathematics](https://www.sephoraberrebi.ai/). Many thanks to the [Séphora Berrebi Association](https://www.sephoraberrebi.org/).
 - From August to October 2022, I was visiting [Yaniv Romano](https://sites.google.com/view/yaniv-romano/) and his group at the [Technion](https://www.technion.ac.il/en/home-2/). Thanks for hosting me! I also thank the [FMJH and LMH](https://www.fondation-hadamard.fr/en/fmjh-supports/research/junior-scientific-visibility/) for funding this stay abroad.
 - Our paper, [*Adaptive Conformal Predictions for Time Series*](https://arxiv.org/abs/2202.07282), has been accepted to [ICML 2022](https://icml.cc/Conferences/2022/)!
