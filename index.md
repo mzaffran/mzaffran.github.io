@@ -14,7 +14,7 @@ My research project is on statistical learning methods for energy management. I 
 
 ##### News
 
-- I succesfully defended my PhD last Tuesday! A huge thanks to the members of the jury. [Slides available](http://mzaffran.github.io/assets/files/talks/Zaffran_PhD_defense_handout.pdf), as well as the [manuscript](http://mzaffran.github.io/assets/files/Zaffran_PhD_Manuscript.pdf).
+- Very happy to announce that I succesfully defended my PhD last Tuesday! A huge thanks to the members of the jury. [Slides available](http://mzaffran.github.io/assets/files/Talks/Zaffran_PhD_defense_handout.pdf), as well as the [manuscript](http://mzaffran.github.io/assets/files/Zaffran_PhD_Manuscript.pdf).
 - Really enthusiastic that our tutorial's proposition, *Distribution-Free Predictive Uncertainty Quantification: Strengths and Limits of Conformal Prediction*, with Aymeric Dieulveut, was accepted at UAI and ICML! Pick your favorite European destination for the summer and see you there :D
 - Super excited to announce that I have been named one of the [Fondation L’Oréal-UNESCO 2023 French Young Talents](https://www.fondationloreal.com/sites/default/files/2023-10/dpfrance_fwis2023-web.pdf), along with 34 amazing French women scientists at the doctoral or post-doctoral level!
 
