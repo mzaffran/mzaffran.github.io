@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
-[UAI tutorial on Conformal Prediction](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/main.pdf)
+[UAI tutorial on Conformal Prediction (slides)](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/main.pdf)
 
 ***
 
