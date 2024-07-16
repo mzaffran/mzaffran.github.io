@@ -6,10 +6,6 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
-[UAI tutorial on Conformal Prediction (slides)](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/main.pdf)
-
-***
-
 In June 2024 I completed [my PhD in statistics](http://mzaffran.github.io/assets/files/Zaffran_PhD_Manuscript.pdf), which took place at [INRIA](https://www.inria.fr/en), at [CMAP](https://portail.polytechnique.edu/cmap/en), Ecole Polytechnique, and at [EDF R&D](https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development), Saclay.
 
 I was supervised by [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) from CMAP, Ecole Polytechnique, by [Julie Josse](http://juliejosse.com/), from INRIA, and by [Olivier Féron](https://www.fime-lab.org/en/feron-olivier/) (director of the [FiME laboratory](https://www.fime-lab.org/en/home/)) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) from EDF.
@@ -26,7 +22,7 @@ My research project is on statistical learning methods for energy management. I 
 
 *June 13, 2024.* I will give a talk at the [LJK--DATA Seminar](https://www-ljk.imag.fr/spip.php?article23), in Grenoble. Many thanks for the invitation!  
 
-*July 15, 2024.* Giving a tutorial on conformal prediction with Aymeric Dieuleveut at [UAI2024](https://www.auai.org/uai2024/) in Barcelona!  
+*July 15, 2024.* Giving a tutorial on conformal prediction with Aymeric Dieuleveut at [UAI2024](https://www.auai.org/uai2024/) in Barcelona! [slides available](http://mzaffran.github.io/assets/files/Talks/Tutorial-dist-free-pred-uncertainty-UAI.pdf)  
 
 *July 22, 2024.* Giving a tutorial on conformal prediction with Aymeric Dieuleveut at [ICML2024](https://icml.cc/virtual/2024/calendar) in Vienna!
 
