@@ -11,7 +11,7 @@ header:
 
 The slides of an introductive tutorial on Conformal Prediction can be found [here](https://conformalpredictionintro.github.io/)!
 
-ICML2024 Tutorial: Distribution-Free Predictive Uncertainty Quantification: Strengths and Limits of Conformal Prediction given with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/). The [slides are available](http://mzaffran.github.io/assets/files/Talks/Tutorial-dist-free-pred-uncertainty-ICML.pdf).  
+[ICML2024 Tutorial: Distribution-Free Predictive Uncertainty Quantification: Strengths and Limits of Conformal Prediction](https://icml.cc/virtual/2024/tutorial/35231) given with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/). The [slides are available](http://mzaffran.github.io/assets/files/Talks/Tutorial-dist-free-pred-uncertainty-ICML.pdf).  
 
 [UAI2024 Tutorial: Distribution-Free Predictive Uncertainty Quantification: Strengths and Limits of Conformal Prediction](https://www.auai.org/uai2024/tutorials) given with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/). The [slides are available](http://mzaffran.github.io/assets/files/Talks/Tutorial-dist-free-pred-uncertainty-UAI.pdf).   
 
