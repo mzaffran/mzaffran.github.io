@@ -24,7 +24,7 @@ My research project is on statistical learning methods for energy management. I 
 
 *July 15, 2024.* Giving a tutorial on conformal prediction with Aymeric Dieuleveut at [UAI2024](https://www.auai.org/uai2024/) in Barcelona! [slides available](http://mzaffran.github.io/assets/files/Talks/Tutorial-dist-free-pred-uncertainty-UAI.pdf)  
 
-*July 22, 2024.* Giving a tutorial on conformal prediction with Aymeric Dieuleveut at [ICML2024](https://icml.cc/virtual/2024/calendar) in Vienna!
+*July 22, 2024.* Giving a tutorial on conformal prediction with Aymeric Dieuleveut at [ICML2024](https://icml.cc/virtual/2024/calendar) in Vienna! [slides available](http://mzaffran.github.io/assets/files/Talks/Tutorial-dist-free-pred-uncertainty-ICML.pdf)  
 
 
 ##### Community
