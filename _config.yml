@@ -103,7 +103,7 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://mzaffran.github.io"
-    - label: "mzaffran_at_protonmail.com"
+    - label: "mzaffran_at_pm.me"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:mzaffran_at_pm.me?body=Replace _at_ with @ in the recipient e-mail!"
     - label: "ArXiv"
