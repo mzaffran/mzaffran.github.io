@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
-I am a postdoctoral scholar in the [Statistics Department of UC Berkeley](https://statistics.berkeley.edu/), working with [Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/).
+I am a postdoctoral researcher in the [Statistics Department of UC Berkeley](https://statistics.berkeley.edu/), working with [Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/).
 
 In June 2024 I completed [my PhD in statistics](http://mzaffran.github.io/assets/files/Zaffran_PhD_Manuscript.pdf), under the supervision of [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) from [CMAP](https://portail.polytechnique.edu/cmap/en), Ecole Polytechnique, of [Julie Josse](http://juliejosse.com/), from [Inria](https://www.inria.fr/en), and of [Olivier Féron](https://www.fime-lab.org/en/feron-olivier/) (director of the [FiME laboratory](https://www.fime-lab.org/en/home/)) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) from [EDF R&D](https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development).
 
