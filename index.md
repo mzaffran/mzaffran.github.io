@@ -31,7 +31,7 @@ Go give a glance at the research and activities of [Aymeric Dieuleveut's team](h
 
 Have also a look at the activities of our [causal inference and missing values group](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html) at INRIA, led by Julie Josse, principal investigator of the [PreMeDICaL team](https://team.inria.fr/premedical/).
 
-I served as a conference reviewer for [AISTATS 2023](https://www.google.com/search?client=firefox-b-d&q=aistats+2023) ([10% top reviewer](http://aistats.org/aistats2023/reviewers.html)), for [NeurIPS 2023](https://nips.cc/) and as a journal reviewer for the [Journal of Business and Economics Statistics](https://www.tandfonline.com/journals/ubes20) and for the [International Journal of Forecasting](https://www.sciencedirect.com/journal/international-journal-of-forecasting).
+I served as a conference reviewer for [AISTATS 2023](https://www.google.com/search?client=firefox-b-d&q=aistats+2023) ([10% top reviewer](http://aistats.org/aistats2023/reviewers.html)), for [NeurIPS 2023](https://nips.cc/) and as a journal reviewer for the  [Journal of the Royal Statistical Society, Series B](https://academic.oup.com/jrsssb), for the [International Journal of Forecasting](https://www.sciencedirect.com/journal/international-journal-of-forecasting), for the [Machine Learning](https://link.springer.com/journal/10994) journal and for the [Journal of Business and Economics Statistics](https://www.tandfonline.com/journals/ubes20).
 
 ##### News archive
 
