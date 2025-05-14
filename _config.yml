@@ -21,7 +21,7 @@ title                    : "Margaux Zaffran"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Margaux Zaffran"
-description              : "PhD in statistics" # site description
+description              : "Postdoctoral researcher in Statistics at UC Berkeley" # site description
 url                      : "https://mzaffran.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Margaux Zaffran"
   avatar           : "/assets/images/test.png"
-  bio              : "PhD in statistics."
+  bio              : "Postdoctoral researcher in Statistics at UC Berkeley."
   location         :
   email            :
   links:
@@ -117,7 +117,7 @@ author:
       url: "https://scholar.google.com/citations?user=AmuWSHgAAAAJ&hl=fr"
     - label: "Resume"
       icon: "fab fa-fw fa-envira"
-      url: "http://mzaffran.github.io/assets/files/CV_Zaffran_2024_07.pdf"
+      url: "http://mzaffran.github.io/assets/files/CV_Zaffran_2025_05.pdf"
     # - label: "LinkedIn"
     #   icon: "fab fa-fw fa-linkedin"
     #   url: "https://www.linkedin.com/in/zaffranmargaux/"

@@ -7,6 +7,22 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
+- *On the hardness of distribution-free group conditional coverage, an application to prediction with missing covariates*, February 6th, 2025.  
+[Statistics seminar, LMO](https://www.imo.universite-paris-saclay.fr/en/research/probability-and-statistics/), Orsay, France  
+[slides](http://mzaffran.github.io/assets/files/Talks/PUQ_MC_LMO.pdf) 
+
+- *On the hardness of distribution-free group conditional coverage, an application to prediction with missing covariates*, January 8th, 2025.  
+[Workshop on Uncertainty Quantification in ML](https://www.sfds.asso.fr/ddoc-13488-6c85a0422ffdc38eee7181e6e3c0b786-uncertainty_quantification_in_machine_learning_open_questions_and_industrial_issues_with_program_min.pdf), Paris, France  
+[slides](http://mzaffran.github.io/assets/files/Talks/PUQ_MC_LNE.pdf) 
+
+- *On the hardness of distribution-free group conditional coverage*, December 16th, 2024.  
+[International Conference on Statistics and Data Science](https://sites.google.com/view/ims-icsds2024/), Nice, France  
+[slides](http://mzaffran.github.io/assets/files/Talks/PUQ_MC_ICSDS.pdf) 
+
+- *Predictive Uncertainty Quantification with Missing Covariates*, June 13th, 2024.  
+[DATA seminar, LJK](https://www-ljk.imag.fr/spip.php?article23), Grenoble, France  
+[slides](http://mzaffran.github.io/assets/files/Talks/PUQ_MC_DATA.pdf)  
+
 - *Adaptive Conformal Predictions for Time Series*, January 18th, 2024.  
 [Statistique Mathématique day](https://statmath2024.sciencesconf.org/), Paris, France  
 [slides](http://mzaffran.github.io/assets/files/Talks/ACP_TS_SM.pdf)

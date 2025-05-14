@@ -6,11 +6,11 @@ header:
   overlay_image: /assets/images/ardon.jpg
 ---
 
-In June 2024 I completed [my PhD in statistics](http://mzaffran.github.io/assets/files/Zaffran_PhD_Manuscript.pdf), which took place at [INRIA](https://www.inria.fr/en), at [CMAP](https://portail.polytechnique.edu/cmap/en), Ecole Polytechnique, and at [EDF R&D](https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development), Saclay.
+I am a postdoctoral scholar in the [Statistics Department of UC Berkeley](https://statistics.berkeley.edu/), working with [Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/).
 
-I was supervised by [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) from CMAP, Ecole Polytechnique, by [Julie Josse](http://juliejosse.com/), from INRIA, and by [Olivier Féron](https://www.fime-lab.org/en/feron-olivier/) (director of the [FiME laboratory](https://www.fime-lab.org/en/home/)) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) from EDF.
+In June 2024 I completed [my PhD in statistics](http://mzaffran.github.io/assets/files/Zaffran_PhD_Manuscript.pdf), under the supervision of [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) from [CMAP](https://portail.polytechnique.edu/cmap/en), Ecole Polytechnique, of [Julie Josse](http://juliejosse.com/), from [Inria](https://www.inria.fr/en), and of [Olivier Féron](https://www.fime-lab.org/en/feron-olivier/) (director of the [FiME laboratory](https://www.fime-lab.org/en/home/)) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) from [EDF R&D](https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development).
 
-My research project is on statistical learning methods for energy management. I am interested in **predictive uncertainty quantification**, especially with *distribution-free finite-sample guarantees in a post-hoc setting*. More specifically, in the context of *time series* or *missing features*.
+I am interested in **predictive uncertainty quantification**, especially with *distribution-free finite-sample guarantees in a post-hoc setting*. During my PhD, I had a particular emphasis in the context of *time series* or *missing features*.
 
 ##### News
 
@@ -20,12 +20,7 @@ My research project is on statistical learning methods for energy management. I 
 
 ##### Upcoming events
 
-*June 13, 2024.* I will give a talk at the [LJK--DATA Seminar](https://www-ljk.imag.fr/spip.php?article23), in Grenoble. Many thanks for the invitation!  
-
-*July 15, 2024.* Giving a tutorial on conformal prediction with Aymeric Dieuleveut at [UAI2024](https://www.auai.org/uai2024/) in Barcelona! [slides available](http://mzaffran.github.io/assets/files/Talks/Tutorial-dist-free-pred-uncertainty-UAI.pdf)  
-
-*July 22, 2024.* Giving a tutorial on conformal prediction with Aymeric Dieuleveut at [ICML2024](https://icml.cc/virtual/2024/calendar) in Vienna! [slides available](http://mzaffran.github.io/assets/files/Talks/Tutorial-dist-free-pred-uncertainty-ICML.pdf)  
-
+*December 1-5, 2025.* I will teach a week-long course on conformal prediction at the 2025 [ECAS](https://ecas.fenstats.eu/)-[SFdS](https://ecas.fenstats.eu/) School [Towards Reliable Machine Learning](https://www.sfds.asso.fr/fr/ecas_2025/748-home/), on the French riviera. Don't hesitate to register, and enjoy December's sun!  
 
 ##### Community
 
