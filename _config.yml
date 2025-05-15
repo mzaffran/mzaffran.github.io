@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Margaux Zaffran"
   avatar           : "/assets/images/test.png"
-  bio              : "Postdoctoral researcher in \n Statistics at UC Berkeley."
+  bio              : "Postdoctoral researcher in <br> Statistics at UC Berkeley."
   location         :
   email            :
   links:
@@ -138,7 +138,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/zaffranmargaux/"
     - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/mzaffran.bsky.social"
 
 
