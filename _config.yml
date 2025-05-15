@@ -138,7 +138,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/zaffranmargaux/"
     - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky"
+      icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/mzaffran.bsky.social"
 
 
