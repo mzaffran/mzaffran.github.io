@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-short-bio",
-          title: "Short bio",
+        },{id: "nav-bio",
+          title: "Bio",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -472,8 +472,8 @@ ninja.data = [{
           window.open("mailto:%6D%7A%61%66%66%72%61%6E_%61%74_%70%6D.%6D%65", "_blank");
         },
       },{
-        id: 'social-arxiv',
-        title: 'Arxiv',
+        id: 'social-arxiv_url',
+        title: 'Arxiv_url',
         section: 'Socials',
         handler: () => {
           window.open("", "_blank");
