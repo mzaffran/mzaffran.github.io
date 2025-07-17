@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-###### Pre-prints
+#### Pre-prints
 
 - *Predictive Uncertainty Quantification with Missing Covariates*  
 M. Zaffran, J. Josse, Y. Romano, A. Dieuleveut  
@@ -18,11 +18,11 @@ G. Dutot<sup>\*</sup>, M. Zaffran<sup>\*</sup>, O. Féron, Y. Goude
 2024  
 [arXiv](https://arxiv.org/abs/2405.15359), [hal](https://hal.science/hal-04586509)
 
-###### Publications
+#### Publications
 
 - [*Conformal Prediction with Missing Values*](https://proceedings.mlr.press/v202/zaffran23a.html)
     <span style="float:right;">
-        <a href="http://mzaffran.github.io/uq-na"> <i class="fas fa-fw fa-folder-open"></i>  </a>
+        <a href="http://mzaffran.github.io/research/uq-na"> <i class="fas fa-fw fa-folder-open"></i>  </a>
     </span>  
 M. Zaffran, A. Dieuleveut, J. Josse, Y. Romano  
 *ICML*, 2023  
@@ -30,7 +30,7 @@ M. Zaffran, A. Dieuleveut, J. Josse, Y. Romano
 
 - [*Adaptive Conformal Predictions for Time Series*](https://proceedings.mlr.press/v162/zaffran22a.html)
     <span style="float:right;">
-        <a href="http://mzaffran.github.io/acp-ts"> <i class="fas fa-fw fa-folder-open"></i>  </a>
+        <a href="http://mzaffran.github.io/research/acp-ts"> <i class="fas fa-fw fa-folder-open"></i>  </a>
     </span>  
 M. Zaffran, O. Féron, Y. Goude, J. Josse, A. Dieuleveut  
 *ICML*, 2022   
