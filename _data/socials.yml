@@ -2,14 +2,8 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-custom_email: # can be any name here other than the ones already defined above
-  logo: "fas fa-fw fa-envelope" # can be png, svg, jpg
-  title: email
-  url: "mailto:mzaffran_at_pm.me?body=Replace _at_ with @ in the recipient e-mail!"
-arxiv: # can be any name here other than the ones already defined above
-  logo: "ai ai-fw ai-arxiv"
-  title: arXiv
-  url: "https://arxiv.org/search/?query=Zaffran%2C+M&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
+email: mzaffran_at_pm.me
+arxiv: https://arxiv.org/search/?query=Zaffran%2C+M&searchtype=author&abstracts=show&order=-announced_date_first&size=50
 github_username: mzaffran # your GitHub user name
 scholar_userid: AmuWSHgAAAAJ # your Google Scholar ID
 bluesky_url: mzaffran # your bluesky URL
