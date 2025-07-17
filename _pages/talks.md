@@ -93,7 +93,7 @@ Yaniv Romano's Group Meeting, Haifa, Israel
 [slides](http://mzaffran.github.io/assets/files/Talks/JdS_210608.pdf)
 
 <p align="center">
-    <img src="http://mzaffran.github.io/assets/images/talk.jpg" alt="JdS 2023 MALIA session" width="400"/>  
+    <img src="http://mzaffran.github.io/assets/img/talk.jpg" alt="JdS 2023 MALIA session" width="400"/>  
 </p>   
 <p align="center">     
     <em>Thanks <a href="https://mariechion.github.io/">Marie</a> for the picture!</em>

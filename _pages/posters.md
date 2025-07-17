@@ -33,7 +33,7 @@ nav: false
 FiME Days, Palaiseau, France  
 
 <p align="center">
-    <img src="http://mzaffran.github.io/assets/images/poster.jpg" alt="ICML 2022 poster session" width="400"/>  
+    <img src="http://mzaffran.github.io/assets/img/poster.jpg" alt="ICML 2022 poster session" width="400"/>  
 </p>   
 <p align="center">     
     <em>Thanks <a href="https://eugenendiaye.github.io/">Eugène</a> for the picture!</em>

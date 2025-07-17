@@ -16,7 +16,7 @@ This project is conducted in collaboration with Olivier Féron, Yannig Goude, Ju
 - [GitHub repository](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)
 
 <p align="center">
-    <img src="http://mzaffran.github.io/assets/images/cartoon_theo.jpg" alt="Nice cartoon by Théo Remlinger" width="300"/>  
+    <img src="http://mzaffran.github.io/assets/img/cartoon_theo.jpg" alt="Nice cartoon by Théo Remlinger" width="300"/>  
 </p>   
 <p align="center">     
     <em>Cartoon made by Théo Remlinger @theo.remlinger</em>
