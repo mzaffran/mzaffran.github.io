@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Short bio"
+title: "Bio"
 permalink: /bio/
 nav: true
 nav_order: 4

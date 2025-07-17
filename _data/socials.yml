@@ -3,7 +3,7 @@
 # the socials will be displayed in the order they are defined here
 
 email: mzaffran_at_pm.me
-arxiv: https://arxiv.org/search/?query=Zaffran%2C+M&searchtype=author&abstracts=show&order=-announced_date_first&size=50
+arxiv_url: https://arxiv.org/search/?query=Zaffran%2C+M&searchtype=author&abstracts=show&order=-announced_date_first&size=50
 github_username: mzaffran # your GitHub user name
 scholar_userid: AmuWSHgAAAAJ # your Google Scholar ID
 bluesky_url: mzaffran # your bluesky URL
