@@ -465,18 +465,18 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-custom_email',
-        title: 'Custom_email',
+        id: 'social-email',
+        title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:mzaffran_at_pm.me?body=Replace _at_ with @ in the recipient e-mail!", "_blank");
+          window.open("mailto:%6D%7A%61%66%66%72%61%6E_%61%74_%70%6D.%6D%65", "_blank");
         },
       },{
         id: 'social-arxiv',
         title: 'Arxiv',
         section: 'Socials',
         handler: () => {
-          window.open("https://arxiv.org/search/?query=Zaffran%2C+M&searchtype=author&abstracts=show&order=-announced_date_first&size=50", "_blank");
+          window.open("", "_blank");
         },
       },{
         id: 'social-github',
