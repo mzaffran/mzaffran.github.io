@@ -7,7 +7,7 @@ nav_order: 3
 text-align: justify
 ---
 
-# Research tutorials
+#### Research tutorials
 
 The slides of an introductive tutorial on Conformal Prediction can be found [here](https://conformalpredictionintro.github.io/)!
 
@@ -20,7 +20,7 @@ The slides of an introductive tutorial on Conformal Prediction can be found [her
 
 [Tutorial on Conformal Prediction](https://claireboyer.github.io/tutorial-conformal-prediction/) given with [Claire Boyer](https://perso.lpsm.paris/~cboyer/) at [FEMTO-ST](https://www.femto-st.fr/en) during the [MASPIN days](https://www.femto-st.fr/fr/L-institut/evenements/2eme-edition-des-journees-maspin-mathematiques-appliquees-et-sciences-pour). The [slides](https://claireboyer.github.io/tutorial-conformal-prediction/slides_cp.pdf) are available.
 
-# Teaching assistant
+#### Teaching assistant
 
 Teaching assistant at [ENSTA Paris](https://www.ensta-paris.fr/en) and [Université Paris Dauphine - PSL](https://dauphine.psl.eu/en/).
 
