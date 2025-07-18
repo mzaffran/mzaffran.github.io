@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Postdoctoral researcher in <a href=https://statistics.berkeley.edu/>Statistics @UC Berkeley</a>.
+subtitle: Postdoctoral researcher in <a href=https://statistics.berkeley.edu/>Statistics @UC Berkeley</a>
 
 profile:
   align: right
