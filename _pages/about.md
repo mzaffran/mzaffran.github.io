@@ -9,9 +9,9 @@ profile:
   image: margaux_bw.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><small><small>Picture taken by Enricka Garcia</small></small></p>
-    <p><small><small>Digital Photography Workshop</small></small></p>
-    <p><small><small>Berkeley Art Studio</small></small></p>
+    <p><small><small><small>Picture taken by Enricka Garcia</small></small></small></p>
+    <p><small><small><small>Digital Photography Workshop</small></small></small></p>
+    <p><small><small><small>Berkeley Art Studio</small></small></small></p>
 
 announcements:
   enabled: false # includes a list of news items
