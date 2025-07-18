@@ -47,10 +47,6 @@ I am interested in **predictive uncertainty quantification**, especially with *d
 I am the current president of the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) of the French Statistical Society ([SFdS](https://www.sfds.asso.fr/)).  
 We have organized the 11th [Young Statisticians and Probabilists day](https://www.sfds.asso.fr/en/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/). Thanks to all the speakers for the amazing talks! You can find the slides and their contact [here](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/) (very soon).
 
-Go give a glance at the research and activities of [Aymeric Dieuleveut's team](https://adieuleveutteam.github.io/), based at Ecole polytechnique.
-
-Have also a look at the activities of our [causal inference and missing values group](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html) at INRIA, led by Julie Josse, principal investigator of the [PreMeDICaL team](https://team.inria.fr/premedical/).
-
 I served as a conference reviewer for [AISTATS 2023](https://www.google.com/search?client=firefox-b-d&q=aistats+2023) ([10% top reviewer](http://aistats.org/aistats2023/reviewers.html)), for [NeurIPS 2023](https://nips.cc/) and as a journal reviewer for the  [Journal of the Royal Statistical Society, Series B](https://academic.oup.com/jrsssb), for the [International Journal of Forecasting](https://www.sciencedirect.com/journal/international-journal-of-forecasting), for the [Machine Learning](https://link.springer.com/journal/10994) journal and for the [Journal of Business and Economics Statistics](https://www.tandfonline.com/journals/ubes20).
 
 #### News archive
