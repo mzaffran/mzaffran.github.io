@@ -5,8 +5,8 @@ permalink: /
 subtitle: Postdoctoral researcher in <a href=https://statistics.berkeley.edu/>Statistics @UC Berkeley</a>
 
 profile:
-  align: right
-  image: margaux_bw.JPG
+  align: left
+  image: margaux_bw_cut.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><small><small><small>Picture taken by Enricka Garcia</small></small></small></p>
