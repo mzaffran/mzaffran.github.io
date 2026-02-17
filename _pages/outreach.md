@@ -13,6 +13,8 @@ Participation to various speed meetings with high school girls.
 
 ###### Talks
 
+- *Exposé et témoignage*, January 21st, 2026.  
+[Maths en Herbe](https://www.fondation-hadamard.fr/en/events/budding-maths-day/), Bures-sur-Yvette, France 
 - *Rendre moins incertain l'avenir des énergies renouvelables*, February 3rd, 2024.  
 [Rendez-vous des Jeunes Mathématiciennes et Informaticiennes](https://filles-et-maths.fr/evenements/rjmi_ensta_24/), Palaiseau, France 
 - *Rendre moins incertain l'avenir des énergies renouvelables*, November 6th, 2023.  

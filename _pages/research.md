@@ -8,6 +8,10 @@ nav_order: 1
 
 #### Pre-prints
 
+- *Momentum Smooths the Path to Gradient Equilibrium*  
+J. V. Romano, M. Zaffran, R. J. Tibshirani  
+2026  
+
 - *Predictive Uncertainty Quantification with Missing Covariates*  
 M. Zaffran, J. Josse, Y. Romano, A. Dieuleveut  
 2024  

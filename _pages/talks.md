@@ -5,6 +5,14 @@ permalink: /talks/
 nav: false
 ---
 
+Below is a list of some talks I delivered outside of the labs I was a member of. 
+
+- *On the hardness of distribution-free group conditional coverage, an application to prediction with missing covariates*, December 8th, 2025.  
+[MAASAI team seminar](https://xai-winter-school.github.io/), Sophia-Antipolis, France  
+
+- *On the hardness of distribution-free group conditional coverage, an application to prediction with missing covariates*, October 20th, 2025.  
+[Causality-XAI Winter School](https://xai-winter-school.github.io/), Paris, France  
+
 - *On the hardness of distribution-free group conditional coverage, an application to prediction with missing covariates*, February 6th, 2025.  
 [Statistics seminar, LMO](https://www.imo.universite-paris-saclay.fr/en/research/probability-and-statistics/), Orsay, France  
 [slides](http://mzaffran.github.io/assets/files/Talks/PUQ_MC_LMO.pdf) 

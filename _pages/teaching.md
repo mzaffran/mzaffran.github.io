@@ -7,6 +7,10 @@ nav_order: 3
 text-align: justify
 ---
 
+#### Postgraduate lecture
+
+In December 2025, I have taught a week-long course on conformal prediction at the [ECAS](https://ecas.fenstats.eu/)-[SFdS](https://ecas.fenstats.eu/) School [Towards Reliable Machine Learning](https://www.sfds.asso.fr/fr/ecas_2025/748-home/). Many thanks to Jean-Michel Poggi and Robin Genuer for the invitation and the organization.
+
 #### Research tutorials
 
 The slides of an introductive tutorial on Conformal Prediction can be found [here](https://conformalpredictionintro.github.io/)!
@@ -27,7 +31,7 @@ Teaching assistant at [ENSTA Paris](https://www.ensta-paris.fr/en) and [Universi
 *Availabilites for students:* you can send me an e-mail whenever you need it. I block my Friday afternoon from 4 to 6 pm to answer you on scientific subjects. If you are lucky, I can answer you at another time, but I can't guarantee it :)
 
 ***
-#### Dauphine
+##### Dauphine
 
 ###### Business Cases, 2022 and 2023
 *[M2 Digital Economics](https://dauphine.psl.eu/en/training/masters-degrees/quantitative-economics/m2-digital-economics)*
@@ -38,7 +42,7 @@ Teaching assistant at [ENSTA Paris](https://www.ensta-paris.fr/en) and [Universi
 - [Electricity french spot prices](http://mzaffran.github.io/assets/files/Dauphine/Data_2018_2021.csv)
 
 ***
-#### ENSTA Paris
+##### ENSTA Paris
 
 ###### Introduction to probability, 2021, 2022 and 2023
 *1st year (equiv. L3)*
