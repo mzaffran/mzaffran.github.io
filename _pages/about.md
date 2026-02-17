@@ -31,7 +31,7 @@ Since October 2025, I am a postdoctoral researcher in the [Probability and Stati
 
 Before that, I was a postdoctoral researcher in the Statistics Department of UC Berkeley, working with [Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/). In June 2024 I completed [my PhD in statistics](http://mzaffran.github.io/assets/files/Zaffran_PhD_Manuscript.pdf), under the supervision of [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) from [CMAP](https://portail.polytechnique.edu/cmap/en), Ecole Polytechnique, of [Julie Josse](http://juliejosse.com/), from [Inria](https://www.inria.fr/en), and of [Olivier Féron](https://www.fime-lab.org/en/feron-olivier/) (director of the [FiME laboratory](https://www.fime-lab.org/en/home/)) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) from [EDF R&D](https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development).
 
-I am interested in **predictive uncertainty quantification**, especially with *distribution-free finite-sample guarantees in a post-hoc setting*. During my PhD, I had a particular emphasis in the context of *time series* or *missing features*.
+I am interested in developing and studying statistical tools that equip end users with reliable guarantees. In particular, I like to think about how to post-process the outputs of black-box algorithms in a way that yields provable guarantees under lightweight assumptions satisfied in practice. As an example, one can think about **predictive uncertainty quantification**, especially with *distribution-free finite-sample guarantees in a post-hoc setting*. During my PhD, I had a particular emphasis in the context of *time series* or *missing features*.
 
 #### News
 
