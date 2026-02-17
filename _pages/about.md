@@ -43,7 +43,7 @@ I am interested in developing and studying statistical tools that equip end user
 
 *February 23, 2026.* I will give a talk at the [Rencontres de Statistiques Lyonnaises](https://indico.math.cnrs.fr/event/14686/). Many thanks for the invitation!
 
-*February 26, 2026.* I will give a talk at the [DATA (LJK) seminar](https://www-ljk.imag.fr/spip.php?article54&id=697c60bf98e9221d6d635d38&type=SEMINAIRE). Many thanks for the invitation! This will be the first time I will present the results we obtained with João and 
+*February 26, 2026.* I will give a talk at the [DATA (LJK) seminar](https://www-ljk.imag.fr/spip.php?article54&id=697c60bf98e9221d6d635d38&type=SEMINAIRE). Many thanks for the invitation! This will be the first time I will present the results we obtained with João and Ryan.
 
 *March 18, 2026.* I will give a talk at the [UQ meets Causality workshop](https://sites.google.com/view/causali-t-ai/events/when-uq-meets-causality). Many thanks for the invitation!
 
