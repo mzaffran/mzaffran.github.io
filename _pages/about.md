@@ -35,6 +35,7 @@ I am interested in developing and studying statistical tools that equip end user
 
 #### News
 
+- Incredibly thrilled to learn that my research project, GUIDDE, has been accepted as a [2025 Marie Skłodowska-Curie Actions Global Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/news/msca-awards-eu4043-million-to-postdoctoral-researchers).
 - I am sincerely humbled to have been selected as co-laureate of the [Jacques Neveu PhD Award](http://smai.emath.fr/spip.php?article359). Many thanks to the [SMAI](http://smai.emath.fr/spip.php).
 - I was really honored to receive (on Wednesday 14th of January, 2026) the [Paul Caseau PhD Thesis Award](https://www.academie-technologies.fr/decouvrez-les-laureats-du-prix-de-these-paul-caseau-2025/), by EDF and the [National Academy of Technologies of France](https://www.academie-technologies.fr/en/). Many thanks to them.  
 - I was very privileged to receive the [Maths, Businesses & Society PhD Award](https://www.agence-maths-entreprises.fr/public/pages/activities/prix-de-these/prix2these-2025.html) during the [2025 Businesses & Mathematics Forum](https://forum-entreprises-maths.fr/public/pages/index.html). Many thanks to [AMIES](https://www.agence-maths-entreprises.fr/public/pages/index.html), [SFdS](https://www.sfds.asso.fr/), [SMAI](http://smai.emath.fr/spip.php) and [SMF]().

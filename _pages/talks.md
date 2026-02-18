@@ -8,7 +8,7 @@ nav: false
 Below is a list of some talks I delivered outside of the labs I was a member of. 
 
 - *On the hardness of distribution-free group conditional coverage, an application to prediction with missing covariates*, December 8th, 2025.  
-[MAASAI team seminar](https://xai-winter-school.github.io/), Sophia-Antipolis, France  
+[MAASAI Inria team](https://team.inria.fr/maasai/) seminar, Sophia-Antipolis, France  
 
 - *On the hardness of distribution-free group conditional coverage, an application to prediction with missing covariates*, October 20th, 2025.  
 [Causality-XAI Winter School](https://xai-winter-school.github.io/), Paris, France  
