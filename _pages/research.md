@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-#### Pre-prints
+#### Pre-prints under review
 
 - *Momentum Smooths the Path to Gradient Equilibrium*  
 J. V. Romano, M. Zaffran, R. J. Tibshirani  
