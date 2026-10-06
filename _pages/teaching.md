@@ -9,7 +9,10 @@ text-align: justify
 
 #### Postgraduate lecture
 
-In December 2025, I have taught a week-long course on conformal prediction at the [ECAS](https://ecas.fenstats.eu/)-[SFdS](https://ecas.fenstats.eu/) School [Towards Reliable Machine Learning](https://www.sfds.asso.fr/fr/ecas_2025/748-home/). Many thanks to Jean-Michel Poggi and Robin Genuer for the invitation and the organization.
+In December 2025, I have taught a week-long course on conformal prediction at the [ECAS](https://ecas.fenstats.eu/)-[SFdS](https://ecas.fenstats.eu/) School [Towards Reliable Machine Learning](https://www.sfds.asso.fr/fr/ecas_2025/748-home/). Many thanks to Jean-Michel Poggi and Robin Genuer for the invitation and the organization.  
+
+I will be teaching this course again in October 2026, in Belgium, [at ISBA, UCLouvain](https://uclouvain.be/en/research-institutes/lidam/isba/events/edt-short-course-by-margaux-zaffran). Many thanks to Eugen Pircalabelu and Germain Van Bever for the invitation and the organization.  
+
 
 #### Research tutorials
 
@@ -26,9 +29,15 @@ The slides of an introductive tutorial on Conformal Prediction can be found [her
 
 #### Teaching assistant
 
-Teaching assistant at [ENSTA Paris](https://www.ensta-paris.fr/en) and [Université Paris Dauphine - PSL](https://dauphine.psl.eu/en/).
+Teaching assistant at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), and formerly at [ENSTA Paris](https://www.ensta-paris.fr/en) and [Université Paris Dauphine - PSL](https://dauphine.psl.eu/en/).
 
 *Availabilites for students:* you can send me an e-mail whenever you need it. I block my Friday afternoon from 4 to 6 pm to answer you on scientific subjects. If you are lucky, I can answer you at another time, but I can't guarantee it :)
+
+***
+##### Université Paris-Saclay
+
+###### Statistics for biology, 2026
+*[L2 Biology](https://www.universite-paris-saclay.fr/en/education/licence-undergraduate-programme/sciences-de-la-vie/l2-biologie)*
 
 ***
 ##### Dauphine

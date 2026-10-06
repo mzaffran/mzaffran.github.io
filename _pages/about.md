@@ -27,7 +27,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Since October 2025, I am a postdoctoral researcher in the [Probability and Statistics team](https://www.imo.universite-paris-saclay.fr/en/research/probability-and-statistics/) of Laboratoire de Mathématiques d'Orsay, working with [Evgenii Chzhen](https://echzhen.com/).
+Since October 2025, I am a postdoctoral researcher in the [Probability and Statistics team](https://www.imo.universite-paris-saclay.fr/en/research/probability-and-statistics/) of Laboratoire de Mathématiques d'Orsay, working with [Evgenii Chzhen](https://echzhen.com/). I am grateful to the [Fondation Mathématique Jacques Hadamard](https://www.fondation-hadamard.fr/en/) for funding my postdoctoral position since October 2026 as a [Thematic PostDoc Fellowship](https://www.fondation-hadamard.fr/en/our-programs/transversal-programs/postdoc-fellowships/thematic-post-docs/laureates-post-doc-archives/).
 
 Before that, I was a postdoctoral researcher in the Statistics Department of UC Berkeley, working with [Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/). In June 2024 I completed [my PhD in statistics](http://mzaffran.github.io/assets/files/Zaffran_PhD_Manuscript.pdf), under the supervision of [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) from [CMAP](https://portail.polytechnique.edu/cmap/en), Ecole Polytechnique, of [Julie Josse](http://juliejosse.com/), from [Inria](https://www.inria.fr/en), and of [Olivier Féron](https://www.fime-lab.org/en/feron-olivier/) (director of the [FiME laboratory](https://www.fime-lab.org/en/home/)) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) from [EDF R&D](https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development).
 
@@ -35,6 +35,7 @@ I am interested in developing and studying statistical tools that equip end user
 
 #### News
 
+- Happy to announce that our paper, *Momentum Smooths the Path to Gradient Equilibrium*, with João Romano and Ryan Tibshirani, has been accepted for presentation at [NeurIPS 2026](https://neurips.cc/).
 - Incredibly thrilled to learn that my research project, GUIDDE, has been accepted as a [2025 Marie Skłodowska-Curie Actions Global Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/news/msca-awards-eu4043-million-to-postdoctoral-researchers).
 - I am sincerely humbled to have been selected as co-laureate of the [Jacques Neveu PhD Award](http://smai.emath.fr/spip.php?article359). Many thanks to the [SMAI](http://smai.emath.fr/spip.php).
 - I was really honored to receive (on Wednesday 14th of January, 2026) the [Paul Caseau PhD Thesis Award](https://www.academie-technologies.fr/decouvrez-les-laureats-du-prix-de-these-paul-caseau-2025/), by EDF and the [National Academy of Technologies of France](https://www.academie-technologies.fr/en/). Many thanks to them.  
@@ -42,23 +43,17 @@ I am interested in developing and studying statistical tools that equip end user
 
 #### Upcoming events
 
-*February 23, 2026.* I will give a talk at the [Rencontres de Statistiques Lyonnaises](https://indico.math.cnrs.fr/event/14686/). Many thanks for the invitation!
+*October 29-30, 2026.* I will be in Belgium to give a [course on conformal prediction at ISBA, UCLouvain](https://uclouvain.be/en/research-institutes/lidam/isba/events/edt-short-course-by-margaux-zaffran)! Registration is open through [this link](https://forms.cloud.microsoft/pages/responsepage.aspx?id=1JCwei76z068fEEntNWC7A0x3GIiKy5JqzLWN70hq_1UOFNLQTdURldGR1FHNExGT09NNlpWN0c1OS4u&route=shorturl).
 
-*February 26, 2026.* I will give a talk at the [DATA (LJK) seminar](https://www-ljk.imag.fr/spip.php?article54&id=697c60bf98e9221d6d635d38&type=SEMINAIRE). Many thanks for the invitation! This will be the first time I will present the results we obtained with João and Ryan.
+*November 12, 2026.* I will give a talk in the [MAGNET Inria team](https://team.inria.fr/magnet/), in Lille. Many thanks for the invitation!  
 
-*March 18, 2026.* I will give a talk at the [UQ meets Causality workshop](https://sites.google.com/view/causali-t-ai/events/when-uq-meets-causality). Many thanks for the invitation!
-
-*March 23, 2026.* I will give a talk at the [CEREMADE Statistics Seminar](https://www.ceremade.dauphine.fr/en/seminars/rencontres-statistiques/past-seminars.html). Many thanks for the invitation!
-
-*July 6-9, 2026.* I will be at the [IMS Annual Meeting](https://ims2026.github.io/IMS2026/), in Salzburg. I will also give a talk during the *Conformal prediction for non-exchangeable data* invited session. Many thanks for the invitation!
-
-*September 7-10, 2026.* I will be at the [RSS International Conference](https://rss.org.uk/training-events/conference2026/), in Bournemouth. I will also give a talk during the *Recent advances in missing data* invited session. Many thanks for the invitation!
+*December 8-11, 2026.* I will attend [NeurIPS 2026, in Paris](https://neurips-europe.cc/), as well as [the ELLIS UnConference](https://ellis-unconference.github.io/) right before. Happy to meet new and old friends through coffee, please send an email if you are interested! :coffee: I will also present a poster in the main conference, about our joint work with João Romano and Ryan Tibshirani; *Momentum Smooths the Path to Gradient Equilibrium*. Please drop by (poster session 4) :blush:
 
 #### Community
 
 As a former member, I can not help but keep the links to the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) of the French Statistical Society ([SFdS](https://www.sfds.asso.fr/)) on this website.
 
-I served as a conference reviewer for [AISTATS 2023](https://www.google.com/search?client=firefox-b-d&q=aistats+2023) ([10% top reviewer](http://aistats.org/aistats2023/reviewers.html)), for [NeurIPS 2023](https://nips.cc/) and as a journal reviewer for the  [Journal of the Royal Statistical Society, Series B](https://academic.oup.com/jrsssb), for [Statistics and Computing](https://link.springer.com/journal/11222) journal, for the [International Journal of Forecasting](https://www.sciencedirect.com/journal/international-journal-of-forecasting), for the [Machine Learning](https://link.springer.com/journal/10994) journal and for the [Journal of Business and Economics Statistics](https://www.tandfonline.com/journals/ubes20).
+I served as a conference reviewer for [AISTATS 2023](https://www.google.com/search?client=firefox-b-d&q=aistats+2023) ([10% top reviewer](http://aistats.org/aistats2023/reviewers.html)), for [NeurIPS 2023 and 2026](https://nips.cc/) and as a journal reviewer for the  [Journal of the Royal Statistical Society, Series B](https://academic.oup.com/jrsssb), for [Statistics and Computing](https://link.springer.com/journal/11222) journal, for the [International Journal of Forecasting](https://www.sciencedirect.com/journal/international-journal-of-forecasting), for the [Machine Learning](https://link.springer.com/journal/10994) journal and for the [Journal of Business and Economics Statistics](https://www.tandfonline.com/journals/ubes20).
 
 #### News archive
 

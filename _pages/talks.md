@@ -7,6 +7,33 @@ nav: false
 
 Below is a list of some talks I delivered outside of the labs I was a member of. 
 
+- *Momentum Smooths the Path to Gradient Equilibrium*, September 14th, 2026.  
+[Séminaire Parisien de Statistique](https://sites.google.com/site/semstats/ann%C3%A9e-2026-2027/s%C3%A9ance-du-14-septembre-2026?authuser=0), Paris, France  
+
+- *Predictive Uncertainty Quantification with Missing Covariates*, September 10th, 2026.  
+Invited session at [RSS International Conference](https://rss.org.uk/training-events/conference2026/), Bournemouth, UK
+
+- *Post-hoc predictive uncertainty quantification: methods with applications to electricity price forecasting*, August 25th, 2026.  
+Jacques Neveu prize presentation during the [2026 MAS Days](https://mas2026.sciencesconf.org/?lang=fr), Lyon, France  
+
+- *Momentum Smooths the Path to Gradient Equilibrium*, July 7th, 2026.  
+Invited session at [IMS Annual Meeting](https://ims2026.github.io/IMS2026/), Salzburg, Austria  
+
+- *Momentum Smooths the Path to Gradient Equilibrium*, June 9th, 2026.
+[Séminaire de Statistique du LPSM](https://www.lpsm.paris/seminaires/statp6p7/index) , Paris, France
+
+- *On the hardness of distribution-free group conditional coverage, an application to prediction with missing covariates*, March 23rd, 2026.  
+[CEREMADE Statistics Seminar](https://www.ceremade.dauphine.fr/en/seminars/rencontres-statistiques/past-seminars.html), Paris, France  
+
+- *Momentum Smooths the Path to Gradient Equilibrium*, March 18th, 2026. 
+[UQ meets Causality workshop](https://sites.google.com/view/causali-t-ai/events/when-uq-meets-causality), Paris, France
+
+- *Momentum Smooths the Path to Gradient Equilibrium*, February 26th, 2026.  
+[DATA (LJK) seminar](https://www-ljk.imag.fr/spip.php?article54&id=697c60bf98e9221d6d635d38&type=SEMINAIRE), Grenoble, France  
+  
+- *An introduction to conformal prediction, a versatile distribution-free predictive uncertainty quantification framework* followed by *On the hardness of group-conditional distribution-free*, February 23rd, 2026.  
+[Rencontres de Statistiques Lyonnaises](https://indico.math.cnrs.fr/event/14686/), Lyon, France  
+
 - *On the hardness of distribution-free group conditional coverage, an application to prediction with missing covariates*, December 8th, 2025.  
 [MAASAI Inria team](https://team.inria.fr/maasai/) seminar, Sophia-Antipolis, France  
 

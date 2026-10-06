@@ -8,10 +8,6 @@ nav_order: 1
 
 #### Pre-prints under review
 
-- *Momentum Smooths the Path to Gradient Equilibrium*  
-J. V. Romano, M. Zaffran, R. J. Tibshirani  
-2026  
-
 - *Predictive Uncertainty Quantification with Missing Covariates*  
 M. Zaffran, J. Josse, Y. Romano, A. Dieuleveut  
 2024  
@@ -23,6 +19,10 @@ G. Dutot<sup>\*</sup>, M. Zaffran<sup>\*</sup>, O. Féron, Y. Goude
 [arXiv](https://arxiv.org/abs/2405.15359), [hal](https://hal.science/hal-04586509)
 
 #### Publications
+
+- *Momentum Smooths the Path to Gradient Equilibrium*  
+J. V. Romano, M. Zaffran, R. J. Tibshirani  
+*NeurIPS*, 2026  
 
 - [*Conformal Prediction with Missing Values*](https://proceedings.mlr.press/v202/zaffran23a.html)
     <span style="float:right;">
