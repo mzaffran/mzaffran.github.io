@@ -11,7 +11,7 @@ text-align: justify
 
 In December 2025, I have taught a week-long course on conformal prediction at the [ECAS](https://ecas.fenstats.eu/)-[SFdS](https://ecas.fenstats.eu/) School [Towards Reliable Machine Learning](https://www.sfds.asso.fr/fr/ecas_2025/748-home/). Many thanks to Jean-Michel Poggi and Robin Genuer for the invitation and the organization.  
 
-I will be teaching this course again in October 2026, in Belgium, [at ISBA, UCLouvain](https://uclouvain.be/en/research-institutes/lidam/isba/events/edt-short-course-by-margaux-zaffran). Many thanks to Eugen Pircalabelu and Germain Van Bever for the invitation and the organization.  
+I will be teaching this course again in October 2026, in Belgium, [at ISBA, UCLouvain](https://uclouvain.be/en/research-institutes/lidam/isba/events/edt-short-course-by-margaux-zaffran). Many thanks to Eugen Pircalabelu and Germain Van Bever for the invitation and the organization. The materials can be found in [this GitHub repository](https://github.com/mzaffran/LIDAM-ISBA_Conformal).  
 
 
 #### Research tutorials
